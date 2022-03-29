@@ -1,0 +1,12 @@
+initcolab
+inserted
+guided
+foundnextclose
+nextobjreg
+donecolab
+h0 insert?Human
+h1 Cuff?Human UnCuff?Human
+h2 objectregister_inserted?RightArm
+h3
+h4 objectregister_clob?RightArm
+h5

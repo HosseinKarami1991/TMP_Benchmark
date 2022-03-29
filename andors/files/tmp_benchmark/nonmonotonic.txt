@@ -1,0 +1,129 @@
+nonmonotonic 34 finish
+start 0
+initpos 0
+pr1 0
+pr2 0
+plrl 0
+plrr 0
+pg1 0
+pg2 0
+pg3 0
+pg4 0
+plgr1 0
+plgl1 0
+plr 0
+pg5 0
+pg6 0
+finish 0
+t2pos1 0
+t2pos2 0
+plgl2 0
+plgr2 0
+pb1 0
+pb2 0
+pb3 0
+pb4 0
+plbr 0
+plbl 0
+pg7 0
+pg8 0
+pb5 0
+pb6 0
+plb 0
+done 0
+stillno 0
+plr2 0
+h0 1 initpos 1 -
+start
+h1 1 pr1 1 -
+initpos
+h2 1 pr2 2 -
+initpos
+h3 1 plrl 2 -
+pr1
+h4 1 plrr 2 -
+pr1
+h5 1 plrl 1 -
+pr2
+h6 1 plrr 1 -
+pr2
+h7 1 pg1 2 -
+plrl
+h8 1 pg2 1 -
+plrl
+h9 1 pg3 1 -
+plrr
+h10 1 pg4 1 -
+plrr
+h11 1 plgr1 1 -
+pg1
+h12 1 plgr1 1 -
+pg2
+h13 1 plgl1 1 -
+pg3
+h14 1 plgl1 1 -
+pg4
+h15 1 plr 1 -
+plgr1
+h16 1 plr2 1 -
+plgl1
+h17 1 pg5 1 -
+plr
+h18 1 pg6 1 -
+plr2
+h19 1 t2pos1 1 -
+pg5
+h20 1 t2pos2 1 -
+pg6
+h21 1 plgl2 2 -
+t2pos1
+h22 1 plgr2 2 -
+t2pos1
+h23 1 plgl2 1 -
+t2pos2
+h24 1 plgr2 2 -
+t2pos2
+h25 1 pb1 2 -
+plgl2
+h26 1 pb2 1 -
+plgl2
+h27 1 pb3 2 -
+plgr2
+h28 1 pb4 1 -
+plgr2
+h29 1 plbr 2 -
+pb1
+h30 1 plbr 1 -
+pb2
+h31 1 plbl 2 -
+pb3
+h32 1 plbl 1 -
+pb4
+h33 1 pg7 1 -
+plbr
+h34 1 pg8 1 -
+plbl
+h35 1 pb5 2 -
+pg7
+h36 1 pb6 2 -
+pg7
+h37 1 pb6 1 -
+pg8
+h38 1 pb5 1 -
+pg8
+h39 1 plb 1 -
+pb5
+h40 1 plb 1 -
+pb6
+h41 1 done 1 -
+plb
+h42 1 stillno 2 -
+plb
+h43 1 finish 1 -
+done
+h44 1 finish 1 -
+stillno
+h45 1 pg6 1 -
+plr
+h46 1 pg5 1 -
+plr2

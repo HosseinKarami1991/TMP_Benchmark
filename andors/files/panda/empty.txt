@@ -1,0 +1,5 @@
+empty 2 final
+init 0
+final 0
+he 1 final 1 -
+init

@@ -1,0 +1,6 @@
+<launch>
+    <arg name="input_pointcloud" default="/camera/depth/points"/>
+    <node pkg="tamp_scene" type="tamp_scene_main" name="tampscen" output="screen"/>
+   	<param name="input_pointcloud" type="string" value="$(arg input_pointcloud)"/>
+    <node pkg="tf" type="static_transform_publisher" name="kinectcameraframe" args="0.0715 -0.0071 0.1128 -0.1958 -0.1459 -0.6958 0.6754 /head_camera /camera_link 100"/>
+</launch>

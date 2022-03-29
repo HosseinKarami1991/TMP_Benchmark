@@ -1,0 +1,81 @@
+start
+initpos
+pr1
+pr2
+plrl
+plrr
+pg1
+pg2
+pg3
+pg4
+plgr1
+plgl1
+plr
+pg5
+pg6
+finish
+t2pos1
+t2pos2
+plgl2
+plgr2
+pb1
+pb2
+pb3
+pb4
+plbr
+plbl
+pg7
+pg8
+pb5
+pb6
+plb
+done
+stillno
+plr2
+h0 updatebench?RightArm Approach_initposr?RightArm Approach_initposl?LeftArm UnGrasp?RightArm UnGrasp?LeftArm Approach_table1pos?Base
+h1 removeobject_red?LeftArm Approach_redl-pregrasp?LeftArm Approach_redl-grasp?LeftArm Grasp_red?LeftArm Approach_redl-postgrasp?LeftArm
+h2 removeobject_red?RightArm Approach_redr-pregrasp?RightArm Approach_redr-grasp?RightArm Grasp_red?RightArm Approach_redr-postgrasp?RightArm
+h3 removeobject_red?LeftArm Approach_redlpll-pregrasp?LeftArm Approach_redlpll-grasp?LeftArm UnGrasp_red?LeftArm Approach_redlpll-postgrasp?LeftArm Approach_initposl?LeftArm
+h4 removeobject_red?LeftArm Approach_redlplr-pregrasp?LeftArm Approach_redlplr-grasp?LeftArm UnGrasp_red?LeftArm Approach_redlplr-postgrasp?LeftArm Approach_initposl?LeftArm
+h5 removeobject_red?RightArm Approach_redrpll-pregrasp?RightArm Approach_redrpll-grasp?RightArm UnGrasp_red?RightArm Approach_redrpll-postgrasp?RightArm Approach_initposr?RightArm
+h6 removeobject_red?RightArm Approach_redrplr-pregrasp?RightArm Approach_redrplr-grasp?RightArm UnGrasp_red?RightArm Approach_redrplr-postgrasp?RightArm Approach_initposr?RightArm
+h7 removeobject_green?LeftArm Approach_greenl-pregrasp?LeftArm Approach_greenl-grasp?LeftArm Grasp_green?LeftArm Approach_greenl-postgrasp?LeftArm
+h8 removeobject_green?RightArm Approach_greenr-pregrasp?RightArm Approach_greenr-grasp?RightArm Grasp_green?RightArm Approach_greenr-postgrasp?RightArm
+h9 removeobject_green?LeftArm Approach_greenl-pregrasp?LeftArm Approach_greenl-grasp?LeftArm Grasp_green?LeftArm Approach_greenl-postgrasp?LeftArm
+h10 removeobject_green?RightArm Approach_greenr-pregrasp?RightArm Approach_greenr-grasp?RightArm Grasp_green?RightArm Approach_greenr-postgrasp?RightArm
+h11 Approach_greenlplr-pregrasp?LeftArm Approach_greenlplr-grasp?LeftArm UnGrasp_green?LeftArm Approach_greenlplr-postgrasp?LeftArm Approach_initposl?LeftArm
+h12 Approach_greenrplr-pregrasp?RightArm Approach_greenrplr-grasp?RightArm UnGrasp_green?RightArm Approach_greenrplr-postgrasp?RightArm Approach_initposr?RightArm
+h13 Approach_greenlpll-pregrasp?LeftArm Approach_greenlpll-grasp?LeftArm UnGrasp_green?LeftArm Approach_greenlpll-postgrasp?LeftArm Approach_initposl?LeftArm
+h14 Approach_greenrpll-pregrasp?RightArm Approach_greenrpll-grasp?RightArm UnGrasp_green?RightArm Approach_greenrpll-postgrasp?RightArm Approach_initposr?RightArm
+h15 removeobject_red?LeftArm Approach_redlpll-pregrasp?LeftArm Approach_redlpll-grasp?LeftArm Grasp_red?LeftArm Approach_redlpll-postgrasp?LeftArm Approach_redl-pregrasp?LeftArm Approach_redl-grasp?LeftArm UnGrasp_red?LeftArm Approach_redl-postgrasp?LeftArm Approach_initposl?LeftArm
+h16 removeobject_red?RightArm Approach_redrplr-pregrasp?RightArm Approach_redrplr-grasp?RightArm Grasp_red?RightArm Approach_redrplr-postgrasp?RightArm Approach_redr-grasp?RightArm UnGrasp_red?RightArm Approach_redr-postgrasp?RightArm
+h17 removeobject_green?LeftArm Approach_greenlplr-pregrasp?LeftArm Approach_greenlplr-grasp?LeftArm Grasp_green?LeftArm Approach_greenlplr-postgrasp?LeftArm
+h18 removeobject_green?RightArm Approach_greenrpll-pregrasp?RightArm Approach_greenrpll-grasp?RightArm Grasp_green?RightArm Approach_greenrpll-postgrasp?RightArm
+h19 Approach_table2pos?Base
+h20 Approach_table2pos?Base
+h21 Approach_greenlpll2-pregrasp?LeftArm Approach_greenlpll2-grasp?LeftArm UnGrasp_green?LeftArm Approach_greenlpll2-postgrasp?LeftArm
+h22 Approach_greenlpll2-pregrasp?LeftArm Approach_greenlpll2-grasp?LeftArm UnGrasp_green?LeftArm Approach_greenlpll2-postgrasp?LeftArm
+h23 Approach_greenrpll2-pregrasp?RightArm Approach_greenrpll2-grasp?RightArm UnGrasp_green?RightArm Approach_greenrpll2-postgrasp?RightArm
+h24 Approach_greenrplr2-pregrasp?RightArm Approach_greenrplr2-grasp?RightArm UnGrasp_green?RightArm Approach_greenrplr2-postgrasp?RightArm
+h25 removeobject_blue?LeftArm Approach_bluel-pregrasp?LeftArm Approach_bluel-grasp?LeftArm Grasp_blue?LeftArm Approach_bluel-postgrasp?LeftArm
+h26 removeobject_blue?RightArm Approach_bluer-pregrasp?RightArm Approach_bluer-grasp?RightArm Grasp_blue?RightArm Approach_bluer-postgrasp?RightArm
+h27 removeobject_blue?LeftArm Approach_bluel-pregrasp?LeftArm Approach_bluel-grasp?LeftArm Grasp_blue?LeftArm Approach_bluel-postgrasp?LeftArm
+h28 removeobject_blue?RightArm Approach_bluer-pregrasp?RightArm Approach_bluer-grasp?RightArm Grasp_blue?RightArm Approach_bluer-postgrasp?RightArm
+h29 Approach_bluelplr-pregrasp?LeftArm Approach_bluelplr-grasp?LeftArm UnGrasp_blue?LeftArm Approach_bluelplr-postgrasp?LeftArm
+h30 Approach_bluerplr-pregrasp?RightArm Approach_bluerplr-grasp?RightArm UnGrasp_blue?RightArm Approach_bluerplr-postgrasp?RightArm
+h31 Approach_bluelpll-pregrasp?LeftArm Approach_bluelpll-grasp?LeftArm UnGrasp_blue?LeftArm Approach_bluelpll-postgrasp?LeftArm
+h32 Approach_bluerpll-pregrasp?RightArm Approach_bluerpll-grasp?RightArm UnGrasp_blue?RightArm Approach_bluerpll-postgrasp?RightArm
+h33 removeobject_green?LeftArm Approach_greenlpll2-pregrasp?LeftArm Approach_greenlpll2-grasp?LeftArm Grasp_green?LeftArm Approach_greenlpll2-postgrasp?LeftArm Approach_targetgreenl-pregrasp?LeftArm Approach_targetgreenl-grasp?LeftArm UnGrasp_green?LeftArm Approach_targetgreenl-postgrasp?LeftArm Approach_initposl?LeftArm
+h34 removeobject_green?RightArm Approach_greenrplr2-pregrasp?RightArm Approach_greenrplr2-grasp?RightArm Grasp_green?RightArm Approach_greenrplr2-postgrasp?RightArm Approach_targetgreenr-pregrasp?RightArm Approach_targetgreenr-grasp?RightArm UnGrasp_green?RightArm Approach_targetgreenr-postgrasp?RightArm Approach_initposr?RightArm
+h35 removeobject_blue?LeftArm Approach_bluelplr-pregrasp?LeftArm Approach_bluelplr-grasp?LeftArm Grasp_blue?LeftArm Approach_bluelplr-postgrasp?LeftArm
+h38 removeobject_blue?LeftArm Approach_bluelpll-pregrasp?LeftArm Approach_bluelpll-grasp?LeftArm Grasp_blue?LeftArm Approach_bluelpll-postgrasp?LeftArm
+h36 removeobject_blue?RightArm Approach_bluelplr-pregrasp?RightArm Approach_bluelplr-grasp?RightArm Grasp_blue?RightArm Approach_bluelplr-postgrasp?RightArm
+h37 removeobject_blue?RightArm Approach_bluerpll-pregrasp?RightArm Approach_bluerpll-grasp?RightArm Grasp_blue?RightArm Approach_bluerpll-postgrasp?RightArm
+h39 Approach_bluel-pregrasp?LeftArm Approach_bluel-grasp?LeftArm UnGrasp_blue?LeftArm Approach_bluel-postgrasp?LeftArm registerpp_a+b?LeftArm
+h40 Approach_bluer-pregrasp?RightArm Approach_bluer-grasp?RightArm UnGrasp_blue?RightArm Approach_bluer-postgrasp?RightArm registerpp_a+b?RightArm
+h41 checkifdone_nonmonotonic+yes?RightArm
+h42 checkifdone_nonmonotonic+no?RightArm
+h43 Approach_initposr?RightArm Approach_initposl?LeftArm sendvictory?RightArm
+h44
+h45 removeobject_green?RightArm Approach_greenrplr-pregrasp?RightArm Approach_greenrplr-grasp?RightArm Grasp_green?RightArm Approach_greenrplr-postgrasp?RightArm
+h46 removeobject_green?LeftArm Approach_greenlpll-pregrasp?LeftArm Approach_greenlpll-grasp?LeftArm Grasp_green?LeftArm Approach_greenlpll-postgrasp?LeftArm

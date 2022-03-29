@@ -1,0 +1,11 @@
+<launch>
+    
+    
+   
+    
+ <include file="$(find baxter_moveit_config)/launch/baxter_grippers.launch" />
+
+<node pkg="tamp_motion_planner" type="tamp_motion_main" name="tampmotion" output="screen"/>
+<node pkg="baxter_interface" type="joint_trajectory_action_server.py" name="jtactionserver" output="screen"/>
+
+</launch>

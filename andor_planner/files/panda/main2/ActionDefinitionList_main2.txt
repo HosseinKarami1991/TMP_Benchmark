@@ -1,0 +1,5 @@
+planfree simple panda2Arm
+checkif_cond simple panda2Arm
+addgraph_spec simple panda2Arm
+exit simple panda2Arm
+Approach_Pose simple panda2Arm

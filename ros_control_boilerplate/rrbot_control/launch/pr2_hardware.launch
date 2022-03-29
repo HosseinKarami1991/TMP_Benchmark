@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- GDB functionality -->
+  <arg name="debug" default="false" />
+  <arg unless="$(arg debug)" name="launch_prefix" value="" />
+  <arg     if="$(arg debug)" name="launch_prefix" value="gdb --ex run --args" />
+
+  <!-- Load example URDF -->
+  <param name="robot_description" command="$(find xacro)/xacro.py '$(find pr2_description)/robots/pr2.urdf.xacro'" />
+  <param name="trajectory_controller" value="position_trajectory_controller"/>
+  <group ns="pr2">
+
+    <!-- Load hardware interface -->
+    <node name="pr2_hardware_interface" pkg="ros_control_boilerplate" type="pr2_hw_main"
+          output="screen" launch-prefix="$(arg launch_prefix)"/>
+
+    <!-- Load controller settings -->
+    <rosparam file="$(find ros_control_boilerplate)/rrbot_control/config/pr2_controllers.yaml" command="load"/>
+
+    <!-- Load controller manager -->
+    <node name="mypr2_controller_manager" pkg="controller_manager" type="controller_manager" respawn="false"
+	  output="screen" args="spawn right_position_trajectory_controller left_position_trajectory_controller base_position_trajectory_controller joint_state_controller" />
+
+    <!-- Convert joint states to /tf tranforms -->
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"/>
+	
+  </group>
+
+</launch>

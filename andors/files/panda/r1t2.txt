@@ -1,0 +1,37 @@
+r1t2 10 done12
+prestart12 0
+start12 0
+target12 0
+clee12 0
+cled12 0
+yes12 0
+no12 0
+placed12 0
+done12 0
+clobt12 0
+h012 1 target12 1 -
+start12
+h112 1 clee12 2 -
+start12
+h212 1 cled12 3 -
+start12
+h312 1 yes12 1 -
+target12
+h412 1 no12 2 -
+target12
+h512 1 placed12 1 -
+clee12
+h612 1 placed12 1 -
+cled12
+h712 1 done12 1 -
+yes12
+h812 1 done12 1 -
+no12
+h912 1 done12 1 -
+placed12
+h1012 1 start12 1 -
+prestart12
+h1112 1 clobt12 4 -
+start12
+h1212 1 placed12 1 -
+clobt12

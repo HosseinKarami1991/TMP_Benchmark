@@ -1,0 +1,10 @@
+Stop simple panda1Arm
+Grasp_Obj simple panda1Arm
+UnGrasp_Obj simple panda1Arm
+HoldOn simple panda1Arm
+Approach_Pose simple panda1Arm
+Rest simple panda1Arm
+checkifr simple panda1Arm
+checkifl simple panda1Arm
+updatescene simple panda1Arm
+sendvictory simple panda1Arm

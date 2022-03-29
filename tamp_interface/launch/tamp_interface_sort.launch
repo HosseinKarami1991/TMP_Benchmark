@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="tamp_interface" type="tamp_interface_main" name="tampinterface" output="screen"/>
+	<param name="benchmark" type="string" value="sort"/>
+	<param name="position_tolerance" type="double" value="0.01"/>
+	<param name="orientation_tolerance" type="double" value="0.05"/>
+</launch>

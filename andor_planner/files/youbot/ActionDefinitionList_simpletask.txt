@@ -1,0 +1,8 @@
+Stop simple LeftArm
+Grasp simple LeftArm
+UnGrasp simple LeftArm
+HoldOn simple LeftArm
+Approach_Pose simple LeftArm
+UpdateJointValues simple LeftArm
+Rest simple LeftArm
+PickUp simple Human

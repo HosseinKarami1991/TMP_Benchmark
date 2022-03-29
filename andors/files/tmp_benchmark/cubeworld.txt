@@ -1,0 +1,106 @@
+cubeworld 31 done
+start 0
+initpos 0
+nob 0
+noc 0
+nor 0
+es1 0
+nes1 0
+pc1 0
+plr1 0
+pb1 0
+plc1 0
+cplr 0
+cnplr 0
+pc2 0
+plr2 0
+es2 0
+nes2 0
+pr1 0
+plc2 0
+pc3 0
+plb1 0
+es3 0
+nes3 0
+pr2 0
+plc3 0
+pc4 0
+plb2 0
+stage 0
+alldone 0
+stillno 0
+done 0
+h0 1 initpos 1 -
+start
+h1 1 nob 1 -
+initpos
+h2 1 noc 2 -
+initpos
+h3 1 nor 3 -
+initpos
+h4 1 es1 1 -
+nob
+h5 1 nes1 2 -
+nob
+h6 1 pb1 1 -
+es1
+h7 1 plc1 1 -
+pb1
+h8 1 stage 1 -
+plc1
+h9 1 pc1 1 -
+nes1
+h10 1 plr1 1 -
+pc1
+h11 1 pb1 1 -
+plr1
+h12 1 cplr 1 -
+noc
+h13 1 cnplr 2 -
+noc
+h14 1 pc2 1 -
+cplr
+h15 1 plr2 1 -
+pc2
+h16 1 stage 1 -
+plr2
+h17 1 es2 1 -
+cnplr
+h18 1 nes2 2 -
+cnplr
+h19 1 pr1 1 -
+es2
+h20 1 plc2 1 -
+pr1
+h21 1 stage 1 -
+plc2
+h22 1 pc3 1 -
+nes2
+h23 1 plb1 1 -
+pc3
+h24 1 pr1 1 -
+plb1
+h25 1 es3 1 -
+nor
+h26 1 nes3 2 -
+nor
+h27 1 pr2 1 -
+es3
+h28 1 plc3 1 -
+pr2
+h29 1 stage 1 -
+plc3
+h30 1 pc4 1 -
+nes3
+h31 1 plb2 1 -
+pc4
+h32 1 pr2 1 -
+plb2
+h33 1 alldone 1 -
+stage
+h34 1 stillno 2 -
+stage
+h35 1 done 1 -
+alldone
+h36 1 done 1 -
+stillno

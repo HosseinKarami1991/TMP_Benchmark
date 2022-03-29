@@ -1,0 +1,10 @@
+bool inscene
+---
+string[] names
+float64[] dimension
+float64[] position
+float64[] orientation
+string target
+string target2
+string[] types
+float64[] colors

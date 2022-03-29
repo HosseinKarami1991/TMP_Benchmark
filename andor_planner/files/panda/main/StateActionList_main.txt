@@ -1,0 +1,21 @@
+start
+planned
+noplan
+yesplan
+bb
+oboa
+ooao
+oban
+end
+h0 planfree?panda1Arm planfree?panda2Arm
+h1 checkif_bn?panda1Arm
+h2 checkif_elsebn?panda1Arm
+h3 checkif_bb?panda1Arm
+h4 checkif_obao?panda1Arm
+h5 checkif_ooao?panda1Arm
+h6 checkif_oban?panda1Arm
+h7
+h8 addgraph_r1t1r2t2
+h9 addgraph_r1t1r2t2
+h10 addgraph_r1t1r2t2
+h11 addgraph_r1t1r2t2

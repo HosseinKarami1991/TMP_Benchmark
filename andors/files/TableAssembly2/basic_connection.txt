@@ -1,0 +1,18 @@
+ConnectLegPlate 4 Leg_Plate_Connected
+Leg_Plate_Connected 0
+Leg_T 0
+Leg_middlePose 0
+Plate 0
+h1 2 Leg_middlePose 2 -
+Leg_T
+Plate
+h2 2 Leg_Plate_Connected 1 -
+Leg_T
+Plate
+h3 1 Leg_Plate_Connected 1 -
+Leg_middlePose
+h4_human 1 Leg_Plate_Connected 2 -
+Leg_middlePose
+h5_human 2 Leg_Plate_Connected 5 -
+Leg_T
+Plate

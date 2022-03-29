@@ -1,0 +1,4 @@
+bool reset
+string planname
+---
+bool result

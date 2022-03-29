@@ -1,0 +1,52 @@
+panda1 13 done
+obj1inipos 0
+departure0 0
+departure1 0
+departure2 0
+departure3 0
+departure4 0
+departure5 0
+checkl0 0
+checkr0 0
+checkl1 0
+checkr1 0
+done 0
+init0 0
+h0 1 departure0 3 -
+obj1inipos
+h1 1 departure1 2 -
+obj1inipos
+h2 1 departure2 1 -
+obj1inipos
+h3 1 departure3 4 -
+obj1inipos
+h4 1 departure4 5 -
+obj1inipos
+h5 1 departure5 6 -
+obj1inipos
+h6 1 done 1 -
+departure0
+h7 1 done 1 -
+departure1
+h8 1 done 1 -
+departure2
+h9 1 checkl0 1 -
+departure3
+h10 1 checkr0 1 -
+departure3
+h11 1 checkl1 1 -
+departure4
+h12 1 checkr1 1 -
+departure4
+h13 1 done 1 -
+checkl0
+h14 1 done 1 -
+checkr0
+h15 1 done 1 -
+checkl1
+h16 1 done 1 -
+checkr1
+h17 1 done 1 -
+departure5
+h18 1 obj1inipos 1 -
+init0

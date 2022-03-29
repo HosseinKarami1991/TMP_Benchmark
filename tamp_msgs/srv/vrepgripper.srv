@@ -1,0 +1,5 @@
+string arm
+string obj
+bool grasp
+---
+bool result

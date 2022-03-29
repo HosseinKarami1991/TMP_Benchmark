@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="tamp_interface" type="tamp_interface_main" name="tampinterface" output="screen"/>
+	<!--node pkg="baxter_interface" type="gripper_action_server.py" name="gripperaction" output="screen"/-->
+	<!--node pkg="baxter_examples" type="gripper_cuff_control.py" name="grippercuffcontrol" /-->
+	<node pkg="tamp_interface" type="robot_display.py" name="robotdisplay" output="screen" />
+</launch>

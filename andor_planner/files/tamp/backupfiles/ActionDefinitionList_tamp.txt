@@ -1,0 +1,9 @@
+Stop simple LeftArm/RightArm
+Grasp_Obj simple LeftArm/RightArm
+UnGrasp_Obj simple LeftArm/RightArm
+HoldOn simple LeftArm/RightArm
+Approach_Pose simple LeftArm/RightArm
+Rest simple LeftArm/RightArm
+checkifr simple RightArm
+checkifl simple RightArm
+updatescene simple RightArm

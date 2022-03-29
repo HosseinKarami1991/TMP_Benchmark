@@ -1,0 +1,22 @@
+TableAssembly 5 Leg1_Plate_close
+Plate_initPose 0
+Plate_assemblyPose 0
+Leg1_T 0
+Leg1_middlePose 0
+Leg1_Plate_close 0
+h0 1 Plate_assemblyPose 1
+Plate_initPose
+h1 1 Leg1_middlePose 2
+Leg1_T
+h2 2 Leg1_Plate_close 1
+Leg1_T
+Plate_assemblyPose
+h3 2 Leg1_Plate_close 1
+Leg1_middlePose
+Plate_assemblyPose
+h4_human 2 Leg1_Plate_close 2
+Leg1_middlePose
+Plate_assemblyPose
+h5_human 2 Leg1_Plate_close 5
+Leg1_T
+Plate_assemblyPose

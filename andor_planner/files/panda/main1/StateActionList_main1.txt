@@ -1,0 +1,11 @@
+start1
+planned1
+np1
+yp1
+done1
+h0 planfree?panda1Arm
+h1 checkif_np?panda1Arm
+h2 checkif_yp?panda1Arm
+h3 Approach_place1-postgrasp?panda1Arm exit?panda1Arm
+h4 addgraph?panda1Arm
+

@@ -1,0 +1,21 @@
+initcolab
+modify
+c1
+learning
+modification
+rpg
+c2
+rg
+c3
+rpog
+donecolab
+h0 Cuff?Human
+h1 PutDown?Human
+h2 UnCuff?Human register_pregrasp
+h3 Cuff?Human UnCuff?Human register_grasp
+h4 Cuff?Human UnCuff?Human register_postgrasp
+h5
+h6 PutDown?Human
+h7 PutDown?Human
+h8 PutDown?Human
+

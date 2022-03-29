@@ -1,0 +1,111 @@
+start
+initpos
+c12
+p12
+pl121
+hopl12
+hopr12
+ho12
+pl122
+c13
+p13
+pl131
+hopl13
+hopr13
+ho13
+pl132
+c21
+p211
+p212
+pl211
+hopr21
+hopl21
+ho21
+pl212
+c23
+p231
+pl231
+p232
+hopl23
+hopr23
+ho23
+pl232
+c31
+p31
+pl311
+hopr31
+hopl31
+ho31
+pl312
+c32
+p32
+pl321
+hopr32
+hopl32
+ho32
+pl322
+stage
+alldone
+stillno
+done
+h0 updatebench?RightArm Approach_initposr?RightArm Approach_initposl?LeftArm Approach_initposb?Base UnGrasp?RightArm UnGrasp?LeftArm
+h1 checkpp_12?RightArm
+h2 checkpp_13?RightArm
+h3 checkpp_21?RightArm
+h4 checkpp_23?RightArm
+h5 checkpp_31?RightArm
+h6 checkpp_32?RightArm
+h7 removeobject_A?LeftArm Approach_pig1L-pregrasp?LeftArm Approach_pig1L-grasp?LeftArm Grasp_A?LeftArm Approach_pig1L-postgrasp?LeftArm
+h8 Approach_pig2L-postgrasp?LeftArm Approach_pig2L-pregrasp?LeftArm UnGrasp_A?LeftArm Approach_pig2L-postgrasp?LeftArm
+h9 registerpp_A+B?LeftArm
+h10 Approach_hopl-pregrasp?LeftArm Approach_hopl-grasp?LeftArm
+h11 UnGrasp?RightArm Approach_hopr-pregrasp?RightArm Approach_hopr-grasp?RightArm
+h12 UnGrasp_A?LeftArm Grasp_A?RightArm Approach_hopl-postgrasp?LeftArm Approach_hopr-postgrasp?RightArm
+h13 Approach_pig2R-postgrasp?RightArm Approach_pig2R-pregrasp?RightArm UnGrasp_A?RightArm Approach_pig2R-postgrasp?RightArm
+h14 registerpp_A+B?LeftArm
+h15 removeobject_A?LeftArm UnGrasp?LeftArm Approach_pig1L-pregrasp?LeftArm Approach_pig1L-grasp?LeftArm Grasp_A?LeftArm Approach_pig1L-postgrasp?LeftArm
+h16 Approach_pig3L-postgrasp?LeftArm Approach_pig3L-pregrasp?LeftArm UnGrasp_A?LeftArm Approach_pig3L-postgrasp?LeftArm
+h17 registerpp_A+C?LeftArm
+h18 Approach_hopl-pregrasp?LeftArm Approach_hopl-grasp?LeftArm
+h19 UnGrasp?RightArm Approach_hopr-pregrasp?RightArm Approach_hopr-grasp?RightArm
+h20 UnGrasp?LeftArm Grasp_A?RightArm Approach_hopl-postgrasp?LeftArm Approach_hopr-postgrasp?RightArm
+h21 Approach_pig3R-postgrasp?RightArm Approach_pig3R-pregrasp?RightArm UnGrasp_A?RightArm Approach_pig3R-postgrasp?RightArm
+h22 registerpp_A+C?LeftArm
+h23 removeobject_B?LeftArm Approach_pig2L-pregrasp?LeftArm Approach_pig2L-grasp?LeftArm Grasp_B?LeftArm Approach_pig2L-postgrasp?LeftArm
+h24 Approach_pig1L-postgrasp?LeftArm Approach_pig1L-pregrasp?LeftArm UnGrasp_B?LeftArm Approach_pig1L-postgrasp?LeftArm
+h25 registerpp_B+A?LeftArm
+h26 removeobject_B?RightArm Approach_pig2R-pregrasp?RightArm Approach_pig2R-grasp?RightArm Grasp_B?RightArm Approach_pig2R-postgrasp?RightArm
+h27 Approach_hopr-pregrasp?RightArm Approach_hopr-grasp?RightArm
+h28 UnGrasp?LeftArm Approach_hopl-pregrasp?LeftArm Approach_hopl-grasp?LeftArm
+h29 UnGrasp_B?RightArm Grasp_B?LeftArm Approach_hopr-postgrasp?RightArm Approach_hopl-postgrasp?LeftArm
+h30 Approach_pig1L-postgrasp?LeftArm Approach_pig1L-pregrasp?LeftArm UnGrasp_B?LeftArm Approach_pig1L-postgrasp?LeftArm
+h31 registerpp_B+A?LeftArm
+h32 removeobject_B?RightArm Approach_pig2R-pregrasp?RightArm Approach_pig2R-grasp?RightArm Grasp_B?RightArm Approach_pig2R-postgrasp?RightArm
+h33 Approach_pig3R-postgrasp?RightArm Approach_pig3R-pregrasp?RightArm UnGrasp_B?RightArm Approach_pig3R-postgrasp?RightArm
+h34 registerpp_B+C?RightArm
+h35 removeobject_B?LeftArm Approach_pig2L-pregrasp?LeftArm Approach_pig2L-grasp?LeftArm Grasp_B?LeftArm Approach_pig2L-postgrasp?LeftArm
+h36 Approach_hopl-pregrasp?LeftArm Approach_hopl-grasp?LeftArm
+h37 UnGrasp?RightArm Approach_hopr-pregrasp?RightArm Approach_hopr-grasp?RightArm
+h38 UnGrasp_B?LeftArm Grasp_B?RightArm Approach_hopl-postgrasp?LeftArm Approach_hopr-postgrasp?RightArm
+h39 Approach_pig3R-postgrasp?RightArm Approach_pig3R-pregrasp?RightArm UnGrasp_B?RightArm Approach_pig3R-postgrasp?RightArm
+h40 registerpp_B+C?RightArm
+h41 removeobject_C?RightArm Approach_pig3R-pregrasp?RightArm Approach_pig3R-grasp?RightArm Grasp_C?RightArm Approach_pig3R-postgrasp?RightArm
+h42 Approach_pig1R-postgrasp?RightArm Approach_pig1R-pregrasp?RightArm UnGrasp_C?RightArm Approach_pig1R-postgrasp?RightArm
+h43 registerpp_C+A?RightArm
+h44 Approach_hopr-pregrasp?RightArm Approach_hopr-grasp?RightArm
+h45 UnGrasp?LeftArm Approach_hopl-pregrasp?LeftArm Approach_hopl-grasp?LeftArm
+h46 UnGrasp_C?RightArm Grasp_C?LeftArm Approach_hopr-postgrasp?RightArm Approach_hopl-postgrasp?LeftArm
+h47 Approach_pig1L-postgrasp?LeftArm Approach_pig1L-pregrasp?LeftArm UnGrasp_C?LeftArm Approach_pig1L-postgrasp?LeftArm
+h48 registerpp_C+A?RightArm
+h49 removeobject_C?RightArm Approach_pig3R-pregrasp?RightArm Approach_pig3R-grasp?RightArm Grasp_C?RightArm Approach_pig3R-postgrasp?RightArm
+h50 Approach_pig2R-postgrasp?RightArm Approach_pig2R-pregrasp?RightArm UnGrasp_C?RightArm Approach_pig2R-postgrasp?RightArm
+h51 registerpp_C+B?RightArm
+h52 Approach_hopr-pregrasp?RightArm Approach_hopr-grasp?RightArm
+h53 UnGrasp?LeftArm Approach_hopl-pregrasp?LeftArm Approach_hopl-grasp?LeftArm
+h54 UnGrasp_C?RightArm Grasp_C?LeftArm Approach_hopr-postgrasp?RightArm Approach_hopl-postgrasp?LeftArm
+h55 Approach_pig2L-postgrasp?LeftArm Approach_pig2L-pregrasp?LeftArm UnGrasp_C?LeftArm Approach_pig2L-postgrasp?LeftArm
+h56 registerpp_C+B?RightArm
+h57 checkifdone_hanoi+yes?RightArm
+h58 checkifdone_hanoi+no?RightArm
+h59 Approach_initposr?RightArm Approach_initposl?LeftArm sendvictory?RightArm
+h60

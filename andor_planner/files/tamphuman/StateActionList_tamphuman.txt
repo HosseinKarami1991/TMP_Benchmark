@@ -1,0 +1,48 @@
+init
+next
+target
+clr
+cll
+cr1
+cl1
+cr2
+cl2
+rs
+ls
+ah1
+ah2
+z10
+z20
+z11
+z21
+ho1
+ho2
+update
+done
+h0 Approach_next-pregrasp Approach_next-grasp Grasp_next Approach_next-postgrasp remove_next
+h1 Approach_target-pregrasp HoldOn Approach_target-grasp Grasp_target Approach_target-postgrasp sendvictory?RightArm
+h2 Approach_clobree-pregrasp?RightArm Approach_clobree-grasp?RightArm Grasp_clobree?RightArm Approach_clobree-postgrasp?RightArm remove_clobree?RightArm
+h3 Approach_cloblee-pregrasp?LeftArm Approach_cloblee-grasp?LeftArm Grasp_cloblee?LeftArm Approach_cloblee-postgrasp?LeftArm remove_cloblee?RightArm
+h4 checkifr?RightArm
+h5 checkifl?RightArm
+h6 checkifr?RightArm
+h7 checkifl?RightArm
+h8
+h9
+h10
+h11
+h12
+h13
+h14 askhuman?Human
+h15 askhuman?Human
+h16 checkifz1?RightArm
+h17 checkifz2?RightArm
+h18 checkifz1?RightArm
+h19 checkifz2?RightArm
+h20 Approach_z1-pregrasp?RightArm Approach_z1-grasp?RightArm UnGrasp?RightArm Approach_z1-postgrasp?RightArm Approach_restr?RightArm
+h21 Approach_resr-pregrasp?RightArm Approach_resr-grasp?RightArm Approach_resl-pregrasp?LeftArm Approach_resl-grasp?LeftArm Grasp?LeftArm UnGrasp?RightArm Approach_resl-postgrasp?LeftArm
+h22 Approach_z2-pregrasp?LeftArm Approach_z2-grasp?LeftArm UnGrasp?LeftArm Approach_z2-postgrasp?LeftArm Approach_restr?RightArm
+h23 Approach_resl-pregrasp?LeftArm Approach_resl-grasp?LeftArm Approach_resr-pregrasp?RightArm Approach_resr-grasp?RightArm Grasp?RightArm UnGrasp?LeftArm Approach_resr-postgrasp?RightArm
+h24 Approach_z1-pregrasp?RightArm Approach_z1-grasp?RightArm UnGrasp?RightArm Approach_z1-postgrasp?RightArm Approach_restr?RightArm Approach_restl?LeftArm
+h25 Approach_z2-pregrasp?LeftArm Approach_z2-grasp?LeftArm UnGrasp?LeftArm Approach_z2-postgrasp?LeftArm Approach_restr?RightArm
+h26 updatescene?RightArm

@@ -1,0 +1,169 @@
+sort 40 finish
+start 0
+initpose 0
+tab1 0
+tab2 0
+clob1 0
+clob2 0
+pick1 0
+pick2 0
+place1 0
+place2 0
+pick3 0
+place3 0
+pick4 0
+place4 0
+g1 0
+b1 0
+g2 0
+b2 0
+base1 0
+base2 0
+stage 0
+done 0
+stillno 0
+finish 0
+pick1l 0
+g1l 0
+b1l 0
+pick3l 0
+g2l 0
+b2l 0
+pick2l 0
+pick4l 0
+base3 0
+base4 0
+base5 0
+base6 0
+base7 0
+base8 0
+cplace1 0
+cplace2 0
+h0 1 initpose 1 -
+start
+h1 1 tab1 1 -
+initpose
+h2 1 tab2 2 -
+initpose
+h3 1 clob1 1 -
+tab1
+h4 1 clob2 1 -
+tab2
+h9 1 pick1 1 -
+clob1
+h11 1 pick2 3 -
+clob1
+h12 1 place2 1 -
+pick2
+h13 1 pick1 1 -
+place2
+h14 1 g1 1 -
+pick1
+h15 1 b1 2 -
+pick1
+h16 1 place1 1 -
+base1
+h17 1 place1 1 -
+base2
+h18 1 stage 1 -
+place1
+h19 1 pick3 1 -
+clob2
+h21 1 pick4 3 -
+clob2
+h22 1 place4 1 -
+pick4
+h23 1 pick3 1 -
+place4
+h24 1 g2 1 -
+pick3
+h25 1 b2 2 -
+pick3
+h26 1 place3 1 -
+base7
+h27 1 place3 1 -
+base8
+h28 1 stage 1 -
+place3
+h29 1 done 2 -
+stage
+h30 1 stillno 1 -
+stage
+h31 1 finish 1 -
+done
+h32 1 finish 1 -
+stillno
+h33 1 pick1l 2 -
+clob1
+h34 1 pick3l 7 -
+clob2
+h37 1 g1l 1 -
+pick1l
+h38 1 b1l 2 -
+pick1l
+h39 1 place1 1 -
+base3
+h40 1 place1 1 -
+base4
+h41 1 g2l 1 -
+pick3l
+h42 1 b2l 2 -
+pick3l
+h43 1 place3 1 -
+base5
+h44 1 place3 1 -
+base6
+h45 1 pick2l 4 -
+clob1
+h46 1 place2 1 -
+pick2l
+h47 1 pick4l 7 -
+clob2
+h48 1 place4 1 -
+pick4l
+h49 1 base1 1 -
+g1
+h50 1 base2 1 -
+b1
+h51 1 base3 1 -
+g1l
+h52 1 base4 1 -
+b1l
+h53 1 base5 1 -
+g2l
+h54 1 base6 1 -
+b2l
+h55 1 base7 1 -
+g2
+h56 1 base8 1 -
+b2
+h57 1 pick3l 2 -
+place4
+h58 1 pick1l 2 -
+place2
+h59 1 stage 123 -
+place4
+h60 1 cplace1 123 -
+pick4l
+h61 1 stage 1 -
+cplace1
+h62 1 cplace1 124 -
+pick4
+h63 1 stage 123 -
+place2
+h64 1 stage 125 -
+place4
+h65 1 cplace2 2 -
+pick2
+h66 1 cplace2 2 -
+pick2l
+h67 1 stage 11 -
+cplace2
+h68 1 place4 1 -
+pick4
+h69 1 place4 1 -
+pick4l
+h70 1 place2 1 -
+pick2l
+h71 1 place2 1 -
+pick2

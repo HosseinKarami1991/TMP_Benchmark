@@ -1,0 +1,105 @@
+start
+initpose
+tab1
+tab2
+clob1
+clob2
+pick1
+pick2
+place1
+place2
+pick3
+place3
+pick4
+place4
+g1
+b1
+g2
+b2
+stage
+done
+stillno
+finish
+base1
+base2
+base3
+base4
+base5
+base6
+base7
+base8
+pick2l
+pick1l
+b1l
+g1l
+b2l
+g2l
+pick3l
+pick4l
+cplace1
+cplace2
+h0 Approach_initposr?RightArm Approach_initposl?LeftArm UnGrasp?RightArm UnGrasp?LeftArm
+h1 checkpp_table1?RightArm Approach_table1pos?Base
+h2 checkpp_table2?RightArm Approach_table2pos?Base
+h3 updatebench?RightArm
+h4 updatebench?RightArm
+h9 removeobject_clob1?RightArm Approach_clob1r-pregrasp?RightArm Approach_clob1r-grasp?RightArm Grasp_clob1?RightArm Approach_clob1r-postgrasp?RightArm
+h33 removeobject_clob1?LeftArm Approach_clob1l-pregrasp?LeftArm Approach_clob1l-grasp?LeftArm Grasp_clob1?LeftArm Approach_clob1l-postgrasp?LeftArm
+h11 removeobject_clo1?RightArm Approach_clo1rp-pregrasp?RightArm Approach_clo1rp-grasp?RightArm Grasp_clo1?RightArm
+h12 Approach_clo1rpl-pregrasp?RightArm Approach_clo1rpl-grasp?RightArm UnGrasp_clo1?RightArm Approach_clo1rpl-postgrasp?RightArm Approach_initposr?RightArm Approach_initposl?LeftArm
+h13 removeobject_clob1?RightArm Approach_clob1r-pregrasp?RightArm Approach_clob1r-grasp?RightArm Grasp_clob1?RightArm Approach_clob1r-postgrasp?RightArm
+h14 checkpp_green1?RightArm
+h15 checkpp_blue1?RightArm
+h37 checkpp_green1?LeftArm
+h38 checkpp_blue1?LeftArm
+h16 Approach_table4p-pregrasp?RightArm Approach_table4p-grasp?RightArm UnGrasp_clob1?RightArm Approach_table4p-postgrasp?RightArm registerpp_a+d?RightArm
+h17 Approach_table3p-pregrasp?RightArm Approach_table3p-grasp?RightArm UnGrasp_clob1?RightArm Approach_table3p-postgrasp?RightArm registerpp_a+c?RightArm
+h39 Approach_table4pl-pregrasp?LeftArm Approach_table4pl-grasp?LeftArm UnGrasp_clob1?LeftArm Approach_table4pl-postgrasp?LeftArm registerpp_a+d?RightArm
+h40 Approach_table3pl-pregrasp?LeftArm Approach_table3pl-grasp?LeftArm UnGrasp_clob1?LeftArm Approach_table3pl-postgrasp?LeftArm registerpp_a+c?RightArm
+h18
+h28
+h19 removeobject_clob2?RightArm Approach_clob2r-pregrasp?RightArm Approach_clob2r-grasp?RightArm Grasp_clob2?RightArm Approach_clob2r-postgrasp?RightArm
+h29 checkifdone_sort+yes?RightArm
+h30 checkifdone_sort+no?RightArm
+h31 Approach_initposr?RightArm Approach_initposl?LeftArm sendvictory?RightArm
+h32
+h36 checkpp_rclob2?LeftArm
+h34 removeobject_clob2?LeftArm Approach_clob2l-pregrasp?LeftArm Approach_clob2l-grasp?LeftArm Grasp_clob2?LeftArm Approach_clob2l-postgrasp?LeftArm
+h21 removeobject_clo2?RightArm Approach_clo2p-pregrasp?RightArm Approach_clo2p-grasp?RightArm Grasp_clo2?RightArm Approach_clo2p-postgrasp?RightArm
+h22 Approach_clo2pl-pregrasp?RightArm Approach_clo2pl-grasp?RightArm Grasp_clo2?RightArm Approach_clo2pl-postgrasp?RightArm Approach_initposr?RightArm Approach_initposl?LeftArm
+h23 removeobject_clob2?RightArm Approach_clob2r-pregrasp?RightArm Approach_clob2r-grasp?RightArm Grasp_clob2?RightArm Approach_clob2r-postgrasp?RightArm
+h24 checkpp_green2?RightArm
+h25 checkpp_blue2?RightArm
+h26 Approach_table4p-pregrasp?RightArm Approach_table4p-grasp?RightArm UnGrasp_clob2?RightArm Approach_table4p-postgrasp?RightArm registerpp_b+d?RightArm
+h27 Approach_table3p-pregrasp?RightArm Approach_table3p-grasp?RightArm UnGrasp_clob2?RightArm Approach_table3p-postgrasp?RightArm registerpp_b+c?RightArm
+h41 checkpp_green2?LeftArm
+h42 checkpp_blue2?LeftArm
+h43 Approach_table4pl-pregrasp?LeftArm Approach_table4pl-grasp?LeftArm UnGrasp_clob2?LeftArm Approach_table4pl-postgrasp?LeftArm registerpp_b+d?LeftArm
+h44 Approach_table3pl-pregrasp?LeftArm Approach_table3pl-grasp?LeftArm UnGrasp_clob2?LeftArm Approach_table3pl-postgrasp?LeftArm registerpp_b+c?LeftArm
+h45 removeobject_clo1?LeftArm Approach_clo1lp-pregrasp?LeftArm Approach_clo1lp-grasp?LeftArm Grasp_clo1?LeftArm
+h46 Approach_clo1lpl-pregrasp?LeftArm Approach_clo1lpl-grasp?LeftArm UnGrasp_clo1?LeftArm Approach_clo1lpl-postgrasp?LeftArm Approach_initposl?LeftArm
+h47 removeobject_clo2?LeftArm Approach_clo2lp-pregrasp?LeftArm Approach_clo2lp-grasp?LeftArm Grasp_clo2?LeftArm Approach_clo2lp-postgrasp?LeftArm
+h48 Approach_clo2lpl-pregrasp?LeftArm Approach_clo2lpl-grasp?LeftArm UnGrasp_clo2?LeftArm Approach_clo2lpl-postgrasp?LeftArm Approach_initposl?LeftArm
+h49 Approach_table4pos?Base
+h50 Approach_table3pos?Base
+h51 Approach_table4pos?Base
+h52 Approach_table3pos?Base
+h53 Approach_table4pos?Base
+h54 Approach_table3pos?Base
+h55 Approach_table4pos?Base
+h56 Approach_table3pos?Base
+h57 removeobject_clob2?RightArm Approach_clob2l-pregrasp?LeftArm Approach_clob2l-grasp?LeftArm Grasp_clob2?LeftArm Approach_clob2l-postgrasp?LeftArm
+h58 removeobject_clob1?LeftArm Approach_clob1l-pregrasp?LeftArm Approach_clob1l-grasp?LeftArm Grasp_clob1?LeftArm Approach_clob1l-postgrasp?LeftArm
+h59
+h60 removeobject_clo2?LeftArm Approach_clo2lp-pregrasp?LeftArm Approach_clo2lp-grasp?LeftArm UnGrasp_clo2?LeftArm Approach_clo2lp-postgrasp?LeftArm updatebench?RightArm
+h61
+h62 removeobject_clo2?RightArm Approach_clo2p-pregrasp?RightArm Approach_clo2p-grasp?RightArm UnGrasp_clo2?RightArm Approach_clo2p-postgrasp?RightArm updatebench?RightArm
+h63
+h64
+h65 removeobject_clo1?RightArm Approach_clo1rp-pregrasp?RightArm Approach_clo1rp-grasp?RightArm UnGrasp_clo1?RightArm Approach_clo1rp-postgrasp?RightArm updatebench?RightArm
+h66 removeobject_clo1?LeftArm Approach_clo1lp-pregrasp?LeftArm Approach_clo1lp-grasp?LeftArm UnGrasp_clo1?LeftArm Approach_clo1lp-postgrasp?LeftArm updatebench?RightArm
+h67
+h68 Approach_clo2pl2-pregrasp?RightArm Approach_clo2pl2-grasp?RightArm Grasp_clo2?RightArm Approach_clo2pl2-postgrasp?RightArm Approach_initposr?RightArm
+h69 Approach_clo2lpl-pregrasp?LeftArm Approach_clo2lpl2-grasp?LeftArm UnGrasp_clo2?LeftArm Approach_clo2lpl2-postgrasp?LeftArm Approach_initposl?LeftArm
+h70 Approach_clo1lpl2-pregrasp?LeftArm Approach_clo1lpl2-grasp?LeftArm UnGrasp_clo1?LeftArm Approach_clo1lpl2-postgrasp?LeftArm Approach_initposl?LeftArm
+h71 Approach_clo1rpl2-pregrasp?RightArm Approach_clo1rpl2-grasp?RightArm UnGrasp_clo1?RightArm Approach_clo1rpl2-postgrasp?RightArm Approach_initposr?RightArm

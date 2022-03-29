@@ -1,0 +1,9 @@
+#input
+bool updatescene
+string reqType		# object/point
+string Name  	
+string requestInfo # graspPose/graspPoseName/boundingBox/ boundingSphere/ ...
+---
+# Output
+float64[] pose
+string[] names

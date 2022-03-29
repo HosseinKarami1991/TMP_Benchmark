@@ -1,0 +1,76 @@
+tamphuman 21 done
+init 0
+next 0
+target 0
+clr 0
+cll 0
+cr1 0
+cl1 0
+cr2 0
+cl2 0
+rs 0
+ls 0
+ah1 0
+ah2 0
+z10 0
+z20 0
+z11 0
+z21 0
+ho1 0
+ho2 0
+update 0
+done 0
+h0 1 next 1 -
+init
+h1 1 target 2 -
+init
+h2 1 clr 3 -
+init
+h3 1 cll 4 -
+init
+h4 1 cr1 1 -
+next
+h5 1 cl1 1 -
+next
+h6 1 cr2 1 -
+target
+h7 1 cl2 1 -
+target
+h8 1 rs 1 -
+cr1
+h9 1 rs 1 -
+cr2
+h10 1 rs 1 -
+clr
+h11 1 ls 1 -
+cl1
+h12 1 ls 1 -
+cl2
+h13 1 ls 1 -
+cll
+h14 1 ah1 1 -
+rs
+h15 1 ah2 1 -
+ls
+h16 1 z10 1 -
+ah1
+h17 1 z20 1 -
+ah1
+h18 1 z11 1 -
+ah2
+h19 1 z21 1 -
+ah2
+h20 1 update 1 -
+z10
+h21 1 ho1 1 -
+z20
+h22 1 update 1 -
+ho1
+h23 1 ho2 1 -
+z11
+h24 1 update 1 -
+ho2
+h25 1 update 1 -
+z21
+h26 1 done 1 -
+update

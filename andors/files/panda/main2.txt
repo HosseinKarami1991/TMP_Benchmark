@@ -1,0 +1,16 @@
+main2 5 done2
+start2 0
+planned2 0
+np2 0
+yp2 0
+done2 0
+h0 1 planned2 1 -
+start2
+h1 1 np2 1 -
+planned2
+h2 1 yp2 1 -
+planned2
+h3 1 done2 1 -
+np2
+h4 1 done2 1 -
+yp2

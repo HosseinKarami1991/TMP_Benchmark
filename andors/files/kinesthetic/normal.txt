@@ -1,0 +1,40 @@
+normal 12 done
+init 0
+objpckd 0
+objinspctd 0
+objflt 0
+objnflt 0
+objna 0
+objplcboxr 0
+objplcboxl 0
+objhndhmn 0
+rarmres 0
+larmres 0
+done 0
+h0 1 objpckd 1 -
+init
+h1 1 objinspctd 1 -
+objpckd
+h2 1 objflt 1 -
+objinspctd
+h3 1 objnflt 1 -
+objinspctd
+h4 1 objna 1 -
+objinspctd
+h5 1 objplcboxr 1 -
+objflt
+h6 1 rarmres 1 -
+objnflt
+h7 1 objhndhmn 1 -
+objna
+h8 1 larmres 1 -
+rarmres
+h10 1 objplcboxl 1 -
+larmres
+h11 1 done 1 -
+objplcboxl
+h12 1 done 1 -
+objplcboxr
+h13 1 done 1 -
+objhndhmn
+

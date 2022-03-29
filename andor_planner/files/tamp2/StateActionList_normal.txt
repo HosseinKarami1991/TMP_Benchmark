@@ -1,0 +1,34 @@
+init
+c11
+c21
+pi1
+pi2
+c22
+c31
+c12
+c32
+pl2
+pl3
+pl1
+pl31
+camera1
+camera2
+done
+h0 CheckPi1?RightArm
+h1 CheckPi2?RightArm
+h2 UnGrasp?RightArm Approach_place1-pregrasp?RightArm Approach_place1-grasp?RightArm Grasp?RightArm Approach_place1-postgrasp?RightArm
+h3 UnGrasp?RightArm Approach_place2-pregrasp?RightArm Approach_place2-grasp?RightArm Grasp?RightArm Approach_place2-postgrasp?RightArm
+h4
+h5 Approach_camera-pregrasp?RightArm Approach_camera-grasp?RightArm HoldOn?RightArm Approach_camera-postgrasp?RightArm
+h6 CheckPl2?RightArm
+h7 CheckPl3?RightArm
+h8 CheckPl1?RightArm
+h9 CheckPl3?RightArm
+h10 Approach_place2-pregrasp?RightArm Approach_place2-grasp?RightArm UnGrasp?RightArm Approach_place2-postgrasp?RightArm
+h11 Approach_place3-pregrasp?RightArm Approach_place3-grasp?RightArm UnGrasp?RightArm Approach_place3-postgrasp?RightArm
+h12 Approach_place1-pregrasp?RightArm Approach_place1-grasp?RightArm UnGrasp?RightArm Approach_place1-postgrasp?RightArm
+h13 Approach_place3-pregrasp?RightArm Approach_place3-grasp?RightArm UnGrasp?RightArm Approach_place3-postgrasp?RightArm
+h14 registerplace_1-2?RightArm
+h15 registerplace_1-3?RightArm
+h16 registerplace_2-1?RightArm
+h17 registerplace_2-3?RightArm

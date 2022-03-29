@@ -1,0 +1,110 @@
+start
+initpos
+pr1
+pr2
+plr1
+plr2
+im1
+pc1
+pc2
+plc1
+plc2
+im2
+pr3
+pr4
+plr3
+plr4
+im3
+pc3
+pc4
+wash1
+wash2
+plc3
+plc4
+wait
+pc5
+pc6
+mw1
+mw2
+plc5
+plc6
+tab21
+pg1
+pg2
+wash3
+wash4
+plg1
+mw3
+pc7
+pc8
+tab22
+tab23
+plc7
+wash5
+pg3
+pg4
+tab24
+tab25
+plg2
+done
+stillno
+finish
+h0 updatebench?RightArm Approach_initposr?RightArm Approach_initposl?LeftArm UnGrasp?RightArm UnGrasp?LeftArm Approach_table1pos?Base
+h1 removeobject_raddish?LeftArm Approach_raddishl-pregrasp?LeftArm Approach_raddishl-grasp?LeftArm Grasp_raddish?LeftArm Approach_raddishl-postgrasp?LeftArm
+h2 removeobject_raddish?RightArm Approach_raddishr-pregrasp?RightArm Approach_raddishr-grasp?RightArm Grasp_raddish?RightArm Approach_raddishr-postgrasp?RightArm
+h3 Approach_raddishlpl-pregrasp?LeftArm Approach_raddishlpl-grasp?LeftArm UnGrasp_raddish?LeftArm Approach_raddishlpl-postgrasp?LeftArm Approach_initposl?LeftArm
+h4 Approach_raddishrpl-pregrasp?RightArm Approach_raddishrpl-grasp?RightArm UnGrasp_raddish?RightArm Approach_raddishrpl-postgrasp?RightArm Approach_initposr?RightArm
+h5
+h6
+h7 removeobject_cabbage?LeftArm Approach_cabbagel-pregrasp?LeftArm Approach_cabbagel-grasp?LeftArm Grasp_cabbage?LeftArm Approach_cabbagel-postgrasp?LeftArm
+h8 removeobject_cabbage?RightArm Approach_cabbager-pregrasp?RightArm Approach_cabbager-grasp?RightArm Grasp_cabbage?RightArm Approach_cabbager-postgrasp?RightArm
+h9 Approach_cabbagelpl-pregrasp?LeftArm Approach_cabbagelpl-grasp?LeftArm UnGrasp_cabbage?LeftArm Approach_cabbagelpl-postgrasp?LeftArm Approach_initposl?LeftArm
+h10 Approach_cabbagerpl-pregrasp?RightArm Approach_cabbagerpl-grasp?RightArm UnGrasp_cabbage?RightArm Approach_cabbagerpl-postgrasp?RightArm Approach_initposr?RightArm
+h11
+h12
+h13 removeobject_raddish?LeftArm Approach_raddishlpl-pregrasp?LeftArm Approach_raddishlpl-grasp?LeftArm Grasp_raddish?LeftArm Approach_raddishlpl-postgrasp?LeftArm
+h14 removeobject_raddish?RightArm Approach_raddishrpl-pregrasp?RightArm Approach_raddishrpl-grasp?RightArm Grasp_raddish?RightArm Approach_raddishrpl-postgrasp?RightArm
+h15 Approach_raddishl-pregrasp?LeftArm Approach_raddishl-grasp?LeftArm UnGrasp_raddish?LeftArm Approach_raddishl-postgrasp?LeftArm Approach_initposl?LeftArm
+h16 Approach_raddishr-pregrasp?RightArm Approach_raddishr-grasp?RightArm UnGrasp_raddish?RightArm Approach_raddishr-postgrasp?RightArm Approach_initposr?RightArm
+h17
+h18
+h19 removeobject_cabbage?LeftArm Approach_cabbagelpl-pregrasp?LeftArm Approach_cabbagelpl-grasp?LeftArm Grasp_cabbage?LeftArm Approach_initposl?LeftArm
+h20 removeobject_cabbage?RightArm Approach_cabbagerpl-pregrasp?RightArm Approach_cabbagerpl-grasp?RightArm Grasp_cabbage?RightArm Approach_initposr?RightArm
+h21 Approach_washpos?Base
+h22 Approach_initposr?RightArm Approach_washpos?Base
+h23 Approach_cabbagelplw-pregrasp?LeftArm Approach_cabbagelplw-grasp?LeftArm UnGrasp_cabbage?LeftArm Approach_cabbagelplw-postgrasp?LeftArm Approach_initposl?LeftArm
+h24 Approach_cabbagerplw-pregrasp?RightArm UnGrasp_cabbage?RightArm Approach_cabbagerplw-postgrasp?RightArm Approach_initposr?RightArm
+h25 Approach_waitpos?Base Approach_washpos?Base
+h26 Approach_waitpos?Base Approach_washpos?Base
+h27 removeobject_cabbage?LeftArm Approach_cabbagelplw-pregrasp?LeftArm Approach_cabbagelplw-grasp?LeftArm Grasp_cabbage?LeftArm Approach_cabbagelplw-postgrasp?LeftArm
+h28 removeobject_cabbage?RightArm Approach_cabbagerplw-pregrasp?RightArm Approach_cabbagerplw-grasp?RightArm Grasp_cabbage?RightArm Approach_cabbagerplw-postgrasp?RightArm
+h29 Approach_initposl?LeftArm Approach_wavepos?Base
+h30 Approach_initposr?RightArm Approach_wavepos?Base
+h31 Approach_cabbagelplc-pregrasp?LeftArm Approach_cabbagelplc-grasp?LeftArm UnGrasp_cabbage?LeftArm Approach_cabbagelplc-postgrasp?LeftArm Approach_initposl?LeftArm
+h32 Approach_cabbagerplc-pregrasp?RightArm Approach_cabbagerplc-grasp?RightArm UnGrasp_cabbage?RightArm Approach_cabbagerplc-postgrasp?RightArm Approach_initposr?RightArm
+h33 Approach_table2pos?Base
+h34 Approach_table2pos?Base
+h35 removeobject_glass?LeftArm Approach_glassl-pregrasp?LeftArm Approach_glassl-grasp?LeftArm Grasp_glass?LeftArm Approach_glassl-postgrasp?LeftArm
+h36 removeobject_glass?RightArm Approach_glassr-pregrasp?RightArm Approach_glassr-grasp?RightArm Grasp_glass?RightArm Approach_glassr-postgrasp?RightArm
+h37 Approach_initposl?LeftArm Approach_washpos?Base
+h38 Approach_initposr?RightArm Approach_washpos?Base
+h39 Approach_glasslplw-pregrasp?LeftArm Approach_glasslplw-grasp?LeftArm UnGrasp_glass?LeftArm Approach_glasslplw-postgrasp?LeftArm Approach_initposl?LeftArm
+h40 Approach_glassrplw-pregrasp?RightArm Approach_glassrplw-grasp?RightArm UnGrasp_glass?RightArm Approach_glassrplw-postgrasp?RightArm Approach_initposr?RightArm
+h41 Approach_wavepos?Base
+h42 removeobject_cabbage?LeftArm Approach_cabbagelplc-pregrasp?LeftArm Approach_cabbagelplc-grasp?LeftArm Grasp_cabbage?LeftArm Approach_cabbagelplc-postgrasp?LeftArm
+h43 removeobject_cabbage?RightArm Approach_cabbagerplc-pregrasp?RightArm Approach_cabbagerplc-grasp?RightArm Grasp_cabbage?RightArm Approach_cabbagerplc-postgrasp?RightArm
+h44 Approach_table2pos?Base
+h45 Approach_table2pos?Base
+h46 Approach_cabbagelplt-pregrasp?LeftArm Approach_cabbagelplt-grasp?LeftArm UnGrasp_cabbage?LeftArm Approach_cabbagelplt-postgrasp?LeftArm Approach_initposl?LeftArm
+h47 Approach_cabbagerplt-pregrasp?RightArm Approach_cabbagerplt-grasp?RightArm UnGrasp_cabbage?RightArm Approach_cabbagerplt-postgrasp?RightArm Approach_initposr?RightArm
+h48 Approach_washpos?Base
+h49 removeobject_glass?LeftArm Approach_glasslplw-pregrasp?LeftArm Approach_glasslplw-grasp?LeftArm Grasp_glass?LeftArm Approach_glasslplw-postgrasp?LeftArm
+h50 removeobject_glass?RightArm Approach_glassrplw-pregrasp?RightArm Approach_glassrplw-grasp?RightArm Grasp_glass?RightArm Approach_glassrplw-postgrasp?RightArm
+h51 Approach_table2pos?Base
+h52 Approach_table2pos?Base
+h53 Approach_glasslplt-pregrasp?LeftArm Approach_glasslplt-grasp?LeftArm UnGrasp_glass?LeftArm Approach_glasslplt-postgrasp?LeftArm registerpp_a+b?LeftArm
+h54 Approach_glassrplt-pregrasp?RightArm Approach_glassrplt-grasp?RightArm UnGrasp_glass?RightArm Approach_glassrplt-postgrasp?RightArm registerpp_a+b?RightArm
+h55 checkifdone_kitchen+yes?RightArm
+h56 checkifdone_kitchen+no?RightArm
+h57 Approach_initposr?RightArm Approach_initposl?LeftArm sendvictory?RightArm
+h58

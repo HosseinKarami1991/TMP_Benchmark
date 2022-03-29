@@ -1,0 +1,173 @@
+hanoi 50 done
+start 0
+initpos 0
+c12 0
+p12 0
+pl121 0
+hopl12 0
+hopr12 0
+ho12 0
+pl122 0
+c13 0
+p13 0
+pl131 0
+hopl13 0
+hopr13 0
+ho13 0
+pl132 0
+c21 0
+p211 0
+p212 0
+pl211 0
+hopr21 0
+hopl21 0
+ho21 0
+pl212 0
+c23 0
+p231 0
+pl231 0
+p232 0
+hopl23 0
+hopr23 0
+ho23 0
+pl232 0
+c31 0
+p31 0
+pl311 0
+hopr31 0
+hopl31 0
+ho31 0
+pl312 0
+c32 0
+p32 0
+pl321 0
+hopr32 0
+hopl32 0
+ho32 0
+pl322 0
+stage 0
+alldone 0
+stillno 0
+done 0
+h0 1 initpos 1 -
+start
+h1 1 c12 1 -
+initpos
+h2 1 c13 2 -
+initpos
+h3 1 c21 3 -
+initpos
+h4 1 c23 4 -
+initpos
+h5 1 c31 5 -
+initpos
+h6 1 c32 6 -
+initpos
+h7 1 p12 1 -
+c12
+h8 1 pl121 1 -
+p12
+h9 1 stage 1 -
+pl121
+h10 1 hopl12 2 -
+p12
+h11 1 hopr12 1 -
+hopl12
+h12 1 ho12 1 -
+hopr12
+h13 1 pl122 1 -
+ho12
+h14 1 stage 1 -
+pl122
+h15 1 p13 1 -
+c13
+h16 1 pl131 1 -
+p13
+h17 1 stage 1 -
+pl131
+h18 1 hopl13 2 -
+p13
+h19 1 hopr13 1 -
+hopl13
+h20 1 ho13 1 -
+hopr13
+h21 1 pl132 1 -
+ho13
+h22 1 stage 1 -
+pl132
+h23 1 p211 1 -
+c21
+h24 1 pl211 1 -
+p211
+h25 1 stage 1 -
+pl212
+h26 1 p212 2 -
+c21
+h27 1 hopr21 1 -
+p212
+h28 1 hopl21 1 -
+hopr21
+h29 1 ho21 1 -
+hopl21
+h30 1 pl212 1 -
+ho21
+h31 1 stage 1 -
+pl212
+h32 1 p231 1 -
+c23
+h33 1 pl231 1 -
+p231
+h34 1 stage 1 -
+pl231
+h35 1 p232 2 -
+c23
+h36 1 hopl23 1 -
+p232
+h37 1 hopr23 1 -
+hopl23
+h38 1 ho23 1 -
+hopr23
+h39 1 pl232 1 -
+ho23
+h40 1 stage 1 -
+pl232
+h41 1 p31 1 -
+c31
+h42 1 pl311 1 -
+p31
+h43 1 stage 1 -
+pl311
+h44 1 hopr31 2 -
+p31
+h45 1 hopl31 1 -
+hopr31
+h46 1 ho31 1 -
+hopl31
+h47 1 pl312 1 -
+ho31
+h48 1 stage 1 -
+pl312
+h49 1 p32 1 -
+c32
+h50 1 pl321 1 -
+p32
+h51 1 stage 1 -
+pl321
+h52 1 hopr32 2 -
+p32
+h53 1 hopl32 1 -
+hopr32
+h54 1 ho32 1 -
+hopl32
+h55 1 pl322 1 -
+ho32
+h56 1 stage 1 -
+pl322
+h57 1 alldone 1 -
+stage
+h58 1 stillno 2 -
+stage
+h59 1 done 1 -
+alldone
+h60 1 done 1 -
+stillno

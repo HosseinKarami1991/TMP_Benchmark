@@ -1,0 +1,53 @@
+normal 16 done
+init 0
+c11 0
+c21 0
+pi1 0
+pi2 0
+c22 0
+c31 0
+c12 0
+c32 0
+pl2 0
+pl3 0
+pl1 0
+pl31 0
+camera1 0
+camera2 0
+done 0
+h0 1 c11 1 -
+init
+h1 1 c21 1 -
+init
+h2 1 pi1 1 -
+c11
+h3 1 pi2 1 -
+c21
+h4 1 camera1 1 -
+pi1
+h5 1 camera2 1 -
+pi2
+h6 1 c22 1 -
+camera1
+h7 1 c31 1 -
+camera1
+h8 1 c12 1 -
+camera2
+h9 1 c32 1 -
+camera2
+h10 1 pl2 1 -
+c22
+h11 1 pl3 1 -
+c31
+h12 1 pl1 1 -
+c12
+h13 1 pl31 1 -
+c32
+h14 1 done 1 -
+pl2
+h15 1 done 1 -
+pl3
+h16 1 done 1 -
+pl1
+h17 1 done 1 -
+pl31

@@ -1,0 +1,20 @@
+pan_tilt:
+  # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50
+  # Position Controllers ---------------------------------------
+  pan_position_controller:
+    type: position_controllers/JointPositionController
+    joint: pan_joint
+  tilt_position_controller:
+    type: position_controllers/JointPositionController
+    joint: tilt_joint
+
+# Trajectory Controller ---------------------------------------
+  arm_joint_trajectory_controller:
+    type: position_controllers/JointTrajectoryController
+    joints:
+      - pan_joint
+      - tilt_joint
+

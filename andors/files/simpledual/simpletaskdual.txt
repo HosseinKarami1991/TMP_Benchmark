@@ -1,0 +1,87 @@
+simpletaskdual 25 done
+obj1inipos 0
+obj1finpos 0
+obj2inipos 0
+obj2finpos 0
+obj3inipos 0
+obj3finpos 0
+obj4inipos 0
+obj4finpos 0
+done 0
+checked1 0
+na1 0
+faulty1 0
+not1 0
+checked2 0
+na2 0
+faulty2 0
+not2 0
+checked3 0
+na3 0
+faulty3 0
+not3 0
+checked4 0
+na4 0
+faulty4 0
+not4 0
+h01 1 checked1 2 -
+obj1inipos
+h11 1 na1 1 -
+checked1
+h21 1 faulty1 3 -
+checked1
+h31 1 not1 2 -
+checked1
+h41 1 obj1finpos 1 -
+na1
+h51 1 obj1finpos 3 -
+faulty1
+h61 1 obj1finpos 2 -
+not1
+h02 2 checked2 2 -
+obj2inipos
+obj1finpos
+h12 1 na2 1 -
+checked2
+h22 1 faulty2 3 -
+checked2
+h32 1 not2 2 -
+checked2
+h42 1 obj2finpos 1 -
+na2
+h52 1 obj2finpos 3 -
+faulty2
+h62 1 obj2finpos 2 -
+not2
+h03 2 checked3 2 -
+obj3inipos
+obj2finpos
+h13 1 na3 1 -
+checked3
+h23 1 faulty3 3 -
+checked3
+h33 1 not3 2 -
+checked3
+h43 1 obj3finpos 1 -
+na3
+h53 1 obj3finpos 3 -
+faulty3
+h63 1 obj3finpos 2 -
+not3
+h04 2 checked4 2 -
+obj4inipos
+obj3finpos
+h14 1 na4 1 -
+checked4
+h24 1 faulty4 3 -
+checked4
+h34 1 not4 2 -
+checked4
+h44 1 obj4finpos 1 -
+na4
+h54 1 obj4finpos 3 -
+faulty4
+h64 1 obj4finpos 2 -
+not4
+hfinal 1 done 1 -
+obj4finpos

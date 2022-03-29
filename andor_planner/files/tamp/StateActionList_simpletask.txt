@@ -1,0 +1,4 @@
+obj1inipos
+done
+h0 Approach_posapproachy?LeftArm Grasp?LeftArm UnGrasp?LeftArm
+

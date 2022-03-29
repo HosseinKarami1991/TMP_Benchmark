@@ -1,0 +1,7 @@
+#input
+string objectname							
+
+---
+# Output
+float64[] objectpos
+

@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="tamp_knowledge" type="tamp_knowledge_main" name="tampKnowledge" output="screen"/>
+	<param name="benchmark" type="string" value="sort"/>
+</launch>

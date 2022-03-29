@@ -1,0 +1,9 @@
+#input
+string graphName							# the main and/or graph name
+Node[] solvedNodes
+Hyperarc[] solvedHyperarc
+---
+# Output
+Node[] feasibleNodes
+Hyperarc[] feasibleHyperarcs
+bool graphSolved		# graph is solved

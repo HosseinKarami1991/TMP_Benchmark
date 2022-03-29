@@ -1,0 +1,20 @@
+string arm
+geometry_msgs/Pose targetpos
+std_msgs/Float32 position_tolerance
+std_msgs/Float32 orientation_tolerance
+bool execute
+bool simulation
+bool withcollision
+string objecttoremve
+float64[] targetjointpos
+float64[] initaljointvalues
+bool currentrobot
+bool withendeffector
+#float32[] joint_angles
+#moveit_msgs/CollisionObject[] collision_objects
+---
+
+bool executedtrajectory
+float32 time
+moveit_msgs/RobotTrajectory soltraj
+bool success

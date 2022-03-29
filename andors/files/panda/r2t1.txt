@@ -1,0 +1,37 @@
+r2t1 10 done21
+prestart21 0
+start21 0
+target21 0
+clee21 0
+cled21 0
+yes21 0
+no21 0
+placed21 0
+done21 0
+clobt21 0
+h021 1 target21 1 -
+start21
+h121 1 clee21 2 -
+start21
+h221 1 cled21 3 -
+start21
+h321 1 yes21 1 -
+target21
+h421 1 no21 2 -
+target21
+h521 1 placed21 1 -
+clee21
+h621 1 placed21 1 -
+cled21
+h721 1 done21 1 -
+yes21
+h821 1 done21 1 -
+no21
+h921 1 done21 1 -
+placed21
+h1021 1 start21 1 -
+prestart21
+h1121 1 clobt21 4 -
+start21
+h1221 1 placed21 1 -
+clobt21

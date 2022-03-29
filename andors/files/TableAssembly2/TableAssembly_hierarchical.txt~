@@ -1,0 +1,28 @@
+TableAssembly 11 Table_FinalPose
+Plate_initPose 0
+Plate_assemblyPose 0
+Leg1_T 0
+Leg2_T 0
+Leg3_T 0
+Leg4_T 0
+Leg1_Plate_connected 0
+Leg2_Plate_connected 0
+Leg3_Plate_connected 0
+Leg4_Plate_connected 0
+Table_FinalPose 0
+h0 1 Plate_assemblyPose 1 -
+Plate_initPose
+h1 2 Leg1_Plate_connected 1 basic_connection 
+Leg1_T
+Plate_assemblyPose
+h2 2 Leg2_Plate_connected 1 basic_connection
+Leg2_T
+Leg1_Plate_connected
+h3 2 Leg3_Plate_connected 1 basic_connection
+Leg3_T
+Leg2_Plate_connected
+h4 2 Leg4_Plate_connected 1 basic_connection
+Leg4_T
+Leg3_Plate_connected
+h21 1 Table_FinalPose 1 -
+Leg4_Plate_connected

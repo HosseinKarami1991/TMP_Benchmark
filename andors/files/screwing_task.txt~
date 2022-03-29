@@ -1,0 +1,31 @@
+screwing_task 9 screwedPlate_finalPos
+screwedPlate_finalPos 0
+driver_finalPos 0
+plate_screw_driver_screwPos 2
+plate_screw_screwPos 1
+plate_screwPos 1
+plate_screw_initialPos 1
+plate_initialPos 0
+screw_initialPos 0
+driver_initialPos 0
+h1 1 screwedPlate_finalPos 5
+driver_finalPos
+h2 1 driver_finalPos 10
+plate_screw_driver_screwPos
+h3 2 plate_screw_driver_screwPos 4
+plate_screw_screwPos
+driver_initialPos
+h4 3 plate_screw_driver_screwPos 2
+plate_screwPos
+screw_initialPos
+driver_initialPos
+h5 2 plate_screw_screwPos 3
+plate_screwPos
+screw_initialPos
+h6 1 plate_screw_screwPos 3
+plate_screw_initialPos
+h7 2 plate_screw_initialPos 3
+plate_initialPos
+screw_initialPos
+h8 1 plate_screwPos 3
+plate_initialPos

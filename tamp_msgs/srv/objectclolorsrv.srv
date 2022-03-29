@@ -1,0 +1,5 @@
+string[]  objects
+int8[]  colors
+
+----
+bool result

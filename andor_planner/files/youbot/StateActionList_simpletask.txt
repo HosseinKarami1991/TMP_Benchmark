@@ -1,0 +1,15 @@
+obj1inipos
+obj1finpos
+obj2inipos
+obj2finpos
+obj3inipos
+obj3finpos
+obj4inipos
+obj4finpos
+obj2inipos
+done
+h0 Approach_posapproachy?LeftArm Approach_gotonextobject?LeftArm UnGrasp?LeftArm Approach_posgraspy?LeftArm Grasp?LeftArm Approach_poslifty?LeftArm Approach_gotohuman?LeftArm Approach_poshandout?LeftArm UnGrasp?LeftArm
+h1 Approach_posapproachy?LeftArm Approach_gotonextobject?LeftArm Approach_posgraspy?LeftArm Grasp?LeftArm Approach_poslifty?LeftArm Approach_gotohuman?LeftArm Approach_poshandout?LeftArm UnGrasp?LeftArm
+h2 Approach_posapproachy?LeftArm Approach_gotonextobject?LeftArm Approach_posgraspy?LeftArm Grasp?LeftArm Approach_poslifty?LeftArm Approach_gotohuman?LeftArm Approach_poshandout?LeftArm UnGrasp?LeftArm
+h3 Approach_posapproachy?LeftArm Approach_gotonextobject?LeftArm Approach_posgraspy?LeftArm Grasp?LeftArm Approach_poslifty?LeftArm Approach_gotohuman?LeftArm Approach_poshandout?LeftArm UnGrasp?LeftArm
+h4 Approach_posresty?LeftArm

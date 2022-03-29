@@ -1,0 +1,12 @@
+Stop simple LeftArm/RightArm
+Grasp_obj simple LeftArm/RightArm
+UnGrasp_obj simple LeftArm/RightArm
+HoldOn simple LeftArm/RightArm
+Approach_Pose simple LeftArm/RightArm/Base
+Rest simple LeftArm/RightArm
+checkpp_ft simple LeftArm/RightArm
+registerpp_ft simple LeftArm/RightArm
+sendvictory simple LeftArm/RightArm
+checkifdone_bench simple LeftArm/RightArm
+updatebench simple LeftArm/RightArm
+removeobject_obj simple LeftArm/RightArm

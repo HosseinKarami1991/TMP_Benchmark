@@ -1,0 +1,25 @@
+init
+objpckd
+objinspctd
+objflt
+objnflt
+objna
+objplcboxr
+objplcboxl
+objhndhmn
+rarmres
+larmres
+done
+h0 UnGrasp?RightArm Approach_object-pregrasp?RightArm Approach_object-grasp?RightArm Grasp?RightArm Approach_object-postgrasp?RightArm
+h1 Approach_camera-pregrasp?RightArm Approach_camera-grasp?RightArm HoldOn?RightArm Approach_camera-postgrasp?RightArm
+h2 CheckFlt?RightArm
+h3 CheckNFlt?RightArm
+h4 CheckNA?RightArm
+h5 Grasp?RightArm Approach_boxr-pregrasp?RightArm Approach_boxr-grasp?RightArm UnGrasp?RightArm Approach_boxr-postgrasp?RightArm Approach_rightrest?RightArm HoldOn?RightArm
+h6 Approach_resr-pregrasp?RightArm Approach_resr-grasp?RightArm Approach_resr-postgrasp?RightArm
+h7 Approach_human-pregrasp?RightArm Approach_human-grasp?RightArm UnGrasp?RightArm Approach_human-postgrasp?RightArm Approach_rightrest?RightArm HoldOn?RightArm
+h8 Approach_resl-pregrasp?LeftArm Approach_resl-grasp?LeftArm Grasp?LeftArm UnGrasp?RightArm Approach_resl-postgrasp?LeftArm UnGrasp?RightArm
+h10 Grasp?LeftArm Approach_boxl-pregrasp?LeftArm Approach_boxl-grasp?LeftArm UnGrasp?LeftArm Approach_boxl-postgrasp?LeftArm Approach_leftrest?LeftArm HoldOn?RightArm
+h11 UnGrasp?RightArm UnGrasp?LeftArm
+h12 UnGrasp?RightArm UnGrasp?LeftArm
+h13 UnGrasp?RightArm UnGrasp?LeftArm

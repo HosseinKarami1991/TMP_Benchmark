@@ -1,0 +1,57 @@
+obj1inipos
+obj1finpos
+checked1
+faulty1
+not1
+na1
+obj2inipos
+obj2finpos
+checked2
+faulty2
+not2
+na2
+obj3inipos
+obj3finpos
+checked3
+faulty3
+not3
+na3
+obj4inipos
+obj4finpos
+checked4
+faulty4
+not4
+na4
+done
+h01 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm Approach_poscamera?RightArm HoldOn?RightArm Screw?RightArm
+h11 readifna?RightArm
+h21 readiffaulty?RightArm
+h31 readifnonfaulty?RightArm
+h41 Approach_posinter?RightArm Approach_poshumanhand?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h51 Approach_posinter?RightArm Approach_posboxa?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h61 Approach_posrendezvousright?RightArm Approach_posrendezvous?LeftArm HoldOn?LeftArm UnGrasp?LeftArm Approach_posrendezvousgrasp?LeftArm Grasp?LeftArm UnGrasp?RightArm Approach_posrightrelease?RightArm Approach_posinterleft?LeftArm Approach_posboxleft?LeftArm UnGrasp?LeftArm Approach_posrestleft?LeftArm Approach_posrest?RightArm
+h71 Approach_posrestleft?LeftArm
+h02 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm Approach_poscamera?RightArm HoldOn?RightArm Screw?RightArm
+h12 readifna?RightArm
+h22 readiffaulty?RightArm
+h32 readifnonfaulty?RightArm
+h42 Approach_posinter?RightArm Approach_poshumanhand?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h52 Approach_posinter?RightArm Approach_posboxa?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h62 Approach_posrendezvousright?RightArm Approach_posrendezvous?LeftArm HoldOn?LeftArm Approach_posrendezvousgrasp?LeftArm Grasp?LeftArm UnGrasp?RightArm Approach_posrightrelease?RightArm Approach_posinterleft?LeftArm Approach_posboxleft?LeftArm UnGrasp?LeftArm Approach_posrestleft?LeftArm Approach_posrest?RightArm
+h72 Approach_posrestleft?LeftArm
+h03 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm Approach_poscamera?RightArm HoldOn?RightArm Screw?RightArm
+h13 readifna?RightArm
+h23 readiffaulty?RightArm
+h33 readifnonfaulty?RightArm
+h43 Approach_posinter?RightArm Approach_poshumanhand?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h53 Approach_posinter?RightArm Approach_posboxa?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h63 Approach_posrendezvousright?RightArm Approach_posrendezvous?LeftArm HoldOn?LeftArm Approach_posrendezvousgrasp?LeftArm Grasp?LeftArm UnGrasp?RightArm Approach_posrightrelease?RightArm Approach_posinterleft?LeftArm Approach_posboxleft?LeftArm UnGrasp?LeftArm Approach_posrestleft?LeftArm Approach_posrest?RightArm
+h73 Approach_posrestleft?LeftArm
+h04 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm Approach_poscamera?RightArm HoldOn?RightArm Screw?RightArm
+h14 readifna?RightArm
+h24 readiffaulty?RightArm
+h34 readifnonfaulty?RightArm
+h44 Approach_posinter?RightArm Approach_poshumanhand?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h54 Approach_posinter?RightArm Approach_posboxa?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h64 Approach_posrendezvousright?RightArm Approach_posrendezvous?LeftArm HoldOn?LeftArm Approach_posrendezvousgrasp?LeftArm Grasp?LeftArm UnGrasp?RightArm Approach_posrightrelease?RightArm Approach_posinterleft?LeftArm Approach_posboxleft?LeftArm UnGrasp?LeftArm Approach_posrestleft?LeftArm Approach_posrest?RightArm
+h74 Approach_posrestleft?LeftArm

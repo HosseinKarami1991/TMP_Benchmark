@@ -1,0 +1,14 @@
+Stop simple RightArm
+Grasp simple RightArm/LeftArm
+UnGrasp simple RightArm/LeftArm
+HoldOn simple RightArm/LeftArm
+Approach_Pose simple RightArm/LeftArm
+UpdateJointValues simple RightArm
+Rest simple RightArm
+Screw simple RightArm
+Unscrew simple RightArm
+readqr simple RightArm
+readiffaulty simple RightArm
+readifnonfaulty simple RightArm
+readifna simple RightArm
+PutDown simple Human

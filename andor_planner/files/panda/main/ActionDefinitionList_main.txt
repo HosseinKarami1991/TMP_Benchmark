@@ -1,0 +1,3 @@
+planfree simple panda1Arm/panda2Arm
+checkif_cond simple panda1Arm
+addgraph_spec simple panda1Arm

@@ -1,0 +1,37 @@
+r2t2 10 done22
+prestart22 0
+start22 0
+target22 0
+clee22 0
+cled22 0
+yes22 0
+no22 0
+placed22 0
+done22 0
+clobt22 0
+h022 1 target22 1 -
+start22
+h122 1 clee22 2 -
+start22
+h222 1 cled22 3 -
+start22
+h322 1 yes22 1 -
+target22
+h422 1 no22 2 -
+target22
+h522 1 placed22 1 -
+clee22
+h622 1 placed22 1 -
+cled22
+h722 1 done22 1 -
+yes22
+h822 1 done22 2 -
+no22
+h922 1 done22 1 -
+placed22
+h1022 1 start22 1 -
+prestart22
+h1122 1 clobt22 4 -
+start22
+h1222 1 placed22 1 -
+clobt22

@@ -1,0 +1,276 @@
+
+<problem>
+<objects>
+<obj>
+<name>glass1</name>
+<geom>glass.obj</geom>
+<pose>1.000 0.000 0.000 1.300 0.000 1.000 0.000 -2.100 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.08</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>glass2</name>
+<geom>glass.obj</geom>
+<pose>1.000 0.000 0.000 1.000 0.000 1.000 0.000 -2.100 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.08</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>cabbage1</name>
+<geom>cabbage.obj</geom>
+<pose>1.000 0.000 0.000 2.400 0.000 1.000 0.000 0.400 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.08</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>cabbage2</name>
+<geom>cabbage.obj</geom>
+<pose>1.000 0.000 0.000 2.400 0.000 1.000 0.000 0.500 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.08</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>radice1</name>
+<geom>radice.obj</geom>
+<pose>1.000 0.000 0.000 2.400 0.000 1.000 0.000 0.300 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.06</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>radice2</name>
+<geom>radice.obj</geom>
+<pose>1.000 0.000 0.000 2.300 0.000 1.000 0.000 0.500 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.06</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>radice3</name>
+<geom>radice.obj</geom>
+<pose>1.000 0.000 0.000 2.300 0.000 1.000 0.000 0.400 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.06</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>radice4</name>
+<geom>radice.obj</geom>
+<pose>1.000 0.000 0.000 2.400 0.000 1.000 0.000 0.600 0.000 0.000 1.000 0.767</pose>
+<moveable>true</moveable>
+<grasps>
+<gc type="side">
+<template>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.06</template>
+<axis>0.0 0.0 1.0</axis>
+</gc>
+</grasps>
+<sop>
+<template>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</template>
+<!--  all z-rotations of the  -->
+<axis>0.0 0.0 1.0</axis>
+<!--  "natural" position      -->
+<distance>0.0</distance>
+</sop>
+</obj>
+<obj>
+<name>tray</name>
+<geom>trayflat_large.obj</geom>
+<pose>0.000 -1.000 0.000 2.325 1.000 -0.000 0.000 0.450 0.000 0.000 1.000 0.767</pose>
+<moveable>false</moveable>
+<sssp>
+<!--  sssp = point  -->
+<xmin>-0.25</xmin>
+<xmax>0.25</xmax>
+<ymin>-0.15</ymin>
+<ymax>0.15</ymax>
+<zmin>0.001</zmin>
+<zmax>0.001</zmax>
+</sssp>
+</obj>
+<obj>
+<name>table1</name>
+<geom>table.obj</geom>
+<pose>0.000 -1.000 0.000 2.200 1.000 -0.000 0.000 0.000 0.000 0.000 1.000 0.000</pose>
+<moveable>false</moveable>
+<sssp>
+<!--  sssp = horizontal rectangular region  -->
+<xmin>-0.75</xmin>
+<xmax>0.75</xmax>
+<ymin>-0.35</ymin>
+<ymax>0.35</ymax>
+<zmin>0.767</zmin>
+<zmax>0.767</zmax>
+</sssp>
+</obj>
+<obj>
+<name>table2</name>
+<geom>table.obj</geom>
+<pose>1.000 0.000 0.000 1.000 0.000 1.000 0.000 -2.100 0.000 0.000 1.000 0.000</pose>
+<moveable>false</moveable>
+<sssp>
+<!--  sssp = horizontal rectangular region  -->
+<xmin>-0.75</xmin>
+<xmax>0.75</xmax>
+<ymin>-0.35</ymin>
+<ymax>0.35</ymax>
+<zmin>0.767</zmin>
+<zmax>0.767</zmax>
+</sssp>
+</obj>
+<obj>
+<name>split1</name>
+<geom>split.obj</geom>
+<pose>0.000 -1.000 0.000 2.530 1.000 -0.000 0.000 0.000 0.000 0.000 1.000 0.767</pose>
+<moveable>false</moveable>
+<sssp>
+<!--  sssp = horizontal rectangular region  -->
+<xmin>-0.75</xmin>
+<xmax>0.75</xmax>
+<ymin>-0.025</ymin>
+<ymax>0.025</ymax>
+<zmin>0.2</zmin>
+<zmax>0.2</zmax>
+</sssp>
+</obj>
+<obj>
+<name>dishwasher</name>
+<geom>dishwasher.obj</geom>
+<pose>1.000 0.000 0.000 2.200 0.000 1.000 0.000 -1.300 0.000 0.000 1.000 0.000</pose>
+<moveable>false</moveable>
+<sssp>
+<!--  sssp = horizontal rectangular region  -->
+<xmin>-0.3</xmin>
+<xmax>0.3</xmax>
+<ymin>-0.3</ymin>
+<ymax>0.3</ymax>
+<zmin>0.9</zmin>
+<zmax>0.9</zmax>
+</sssp>
+</obj>
+<obj>
+<name>microwave</name>
+<geom>microwave.obj</geom>
+<pose>0.000 -1.000 0.000 2.200 1.000 0.000 0.000 -0.400 0.000 0.000 1.000 0.766</pose>
+<moveable>false</moveable>
+<sssp>
+<!--  sssp = horizontal rectangular region  -->
+<xmin>-0.25</xmin>
+<xmax>0.25</xmax>
+<ymin>-0.2</ymin>
+<ymax>0.2</ymax>
+<zmin>0.3</zmin>
+<zmax>0.3</zmax>
+</sssp>
+</obj>
+<obj>
+<name>arena</name>
+<geom>arena.obj</geom>
+<pose>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.200</pose>
+<moveable>false</moveable>
+</obj>
+</objects>
+<robots>
+<robot>
+<name>pr2</name>
+<urdf>models/pr2.urdf</urdf>
+<!--  or some other format you may use  -->
+<basepose>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 -0.670</basepose>
+<movebase>true</movebase>
+<!--  the base can move  -->
+<torso>0.1</torso>
+<left_arm>0.5 0.0 0.0 -0.16 0.0 -0.11 0.0</left_arm>
+<right_arm>-0.5 0.0 0.0 -0.16 0.0 -0.11 0.0</right_arm>
+</robot>
+</robots>
+<AMmapping>
+<action>
+<name>pickup</name>
+<joints> r_shoulder_pan_joint r_shoulder_lift_joint r_upper_arm_roll_joint r_forearm_roll_joint r_elbow_flex_joint r_wrist_flex_joint r_wrist_roll_joint r_gripper_motor_slider_joint l_shoulder_pan_joint l_shoulder_lift_joint l_upper_arm_roll_joint l_forearm_roll_joint l_elbow_flex_joint l_wrist_flex_joint l_wrist_roll_joint l_gripper_motor_slider_joint </joints>
+</action>
+<action>
+<name>putdown</name>
+<joints> r_shoulder_pan_joint r_shoulder_lift_joint r_upper_arm_roll_joint r_forearm_roll_joint r_elbow_flex_joint r_wrist_flex_joint r_wrist_roll_joint r_gripper_motor_slider_joint l_shoulder_pan_joint l_shoulder_lift_joint l_upper_arm_roll_joint l_forearm_roll_joint l_elbow_flex_joint l_wrist_flex_joint l_wrist_roll_joint l_gripper_motor_slider_joint </joints>
+</action>
+</AMmapping>
+</problem>

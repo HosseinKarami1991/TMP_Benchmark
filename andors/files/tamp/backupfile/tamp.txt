@@ -1,0 +1,24 @@
+tamp 5 done
+obj1inipos 0
+departure 0
+checkl 0
+checkr 0
+done 0
+h0 1 departure 2 -
+obj1inipos
+h1 1 departure 3 -
+obj1inipos
+h2 1 departure 1 -
+obj1inipos
+h3 1 checkr 1 -
+departure
+h4 1 checkl 1 -
+departure
+h5 1 done 1 -
+checkr
+h6 1 done 1 -
+checkl
+h7 1 departure 4 -
+obj1inipos
+h8 1 departure 5 -
+obj1inipos

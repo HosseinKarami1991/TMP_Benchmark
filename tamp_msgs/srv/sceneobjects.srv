@@ -1,0 +1,9 @@
+
+bool update
+
+
+---
+std_msgs/String[]  types
+geometry_msgs/Point[] poses
+geometry_msgs/Transform[] baseposes
+float32[] boundbox

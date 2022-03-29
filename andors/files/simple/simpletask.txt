@@ -1,0 +1,24 @@
+simpletask 9 done
+obj1inipos 0
+obj2inipos 0
+obj1finpos 0
+obj2finpos 0
+obj3inipos 0
+obj4inipos 0
+obj3finpos 0
+obj4finpos 0
+done 0 
+h0 1 obj1finpos 1 -
+obj1inipos
+h1 2 obj2finpos 1 -
+obj1finpos
+obj2inipos
+h2 2 obj3finpos 1 -
+obj2finpos
+obj3inipos
+h3 2 obj4finpos 1 -
+obj3finpos
+obj4inipos
+h4 1 done 1-
+obj4finpos
+

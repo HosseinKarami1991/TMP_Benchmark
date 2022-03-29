@@ -1,0 +1,32 @@
+obj1inipos
+departure0
+departure1
+departure2
+departure3
+departure4
+departure5
+checkl0
+checkr0
+checkl1
+checkr1
+done
+init0
+h0 Approach_clobree-pregrasp?RightArm Approach_clobree-grasp?RightArm Grasp_clobree?RightArm Approach_clobree-postgrasp?RightArm
+h1 Approach_cloblee-pregrasp?LeftArm HoldOn?LeftArm Approach_cloblee-grasp?LeftArm HoldOn?LeftArm Grasp_cloblee?LeftArm Approach_cloblee-postgrasp?LeftArm
+h2 Approach_target-pregrasp HoldOn Approach_target-grasp Grasp_target Approach_target-postgrasp
+h3 Approach_clobt-pregrasp HoldOn Approach_clobt-grasp HoldOn Grasp_clobt Approach_clobt-postgrasp
+h4 Approach_clobb-pregrasp HoldOn Approach_clobb-grasp HoldOn Grasp_clobb Approach_clobb-postgrasp
+h5 Approach_larob-pregrasp Approach_larob-grasp Approach_larob-postgrasp
+h6 Approach_storage?RightArm HoldOn?RightArm UnGrasp_clobree?RightArm HoldOn?RightArm Approach_restr?RightArm Approach_restl?LeftArm
+h7 Approach_resl?LeftArm Approach_resrpregrasp?RightArm Approach_resrgrasp?RightArm Grasp_cloblee?RightArm UnGrasp?LeftArm Approach_resrpostgrasp?RightArm Approach_storage?RightArm UnGrasp_cloblee?RightArm Approach_restr?RightArm Approach_restl?LeftArm
+h8 sendvictory?RightArm
+h9 checkifl?RightArm
+h10 checkifr?RightArm
+h11 checkifl?RightArm
+h12 checkifr?RightArm
+h13 Approach_resl?LeftArm Approach_resrpregrasp?RightArm Approach_resrgrasp?RightArm Grasp_clobt?RightArm UnGrasp?LeftArm Approach_resrpostgrasp?RightArm Approach_storage?RightArm UnGrasp_clobt?RightArm Approach_restr?RightArm Approach_restl?LeftArm
+h14 Approach_storage?RightArm UnGrasp_clobb?RightArm HoldOn?RightArm Approach_restr?RightArm Approach_restl?LeftArm
+h15 Approach_resl?LeftArm Approach_resrpregrasp?RightArm Approach_resrgrasp?RightArm Grasp_clobb?RightArm UnGrasp?LeftArm Approach_resrpostgrasp?RightArm Approach_storage?RightArm UnGrasp_clobb?RightArm Approach_restr?RightArm Approach_restl?LeftArm
+h16 Approach_storage?RightArm HoldOn?RightArm HoldOn?RightArm UnGrasp_clobb?RightArm Approach_restr?RightArm Approach_restl?LeftArm
+h17
+h18 updatescene?RightArm

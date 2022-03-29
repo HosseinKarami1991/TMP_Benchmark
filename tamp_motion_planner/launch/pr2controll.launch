@@ -1,0 +1,26 @@
+
+<launch>
+    
+  <rosparam file="$(find tamp_motion_planner)/config/controllers.yaml" command="load"/>
+ 
+
+
+​
+	<group ns="pr2">
+  <node name="MyRobotHardwareInterface" pkg="tamp_motion_planner" type="pr2_hw_main" output="screen"/>
+
+​
+<param name="robot_description" command="$(find xacro)/xacro.py '$(find pr2_description)/robots/pr2.urdf.xacro'"/>
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher"/>
+    
+  <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false" output="screen"
+        args="
+            /MyRobot/joints_update
+            /MyRobot/JointA_PositionController
+            /MyRobot/JointB_PositionController
+            /MyRobot/JointC_PositionController
+        "/> 
+
+ </group>
+
+</launch>

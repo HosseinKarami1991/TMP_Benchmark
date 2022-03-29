@@ -1,0 +1,9 @@
+#input
+rrtstar_msgs/Region WS			# Working Region
+rrtstar_msgs/Region Goal		# Goal Region 
+geometry_msgs/Vector3 Init		# Initial Point
+rrtstar_msgs/Region[] Obstacles		# Vector of Obstacles
+---
+# Output
+geometry_msgs/Vector3[] path		# Vector of Path points
+

@@ -1,0 +1,38 @@
+//===============================================================================//
+// Name			   : andor_main.cpp
+// Author(s)	 :  Kourosh.darvish@edu.unige.it
+// Affiliation : University of Genova, Italy - dept. DIBRIS
+// Version		 : 1.0
+// Description : Main program using the AND-OR graph library
+//===============================================================================//
+
+#include <iostream>
+#include <ros/ros.h>
+#include "andor_aograph.h"
+#include "std_msgs/String.h"
+#include <andor_msgs/andorSRV.h>
+#include <andor_msgs/hyperarc.h>
+
+using namespace std;
+
+bool updateANDOR(andor_msgs::andorSRV::Request &req, andor_msgs::andorSRV::Response &res){
+
+	return true;
+}
+
+
+int main(int argc, char **argv)
+{
+
+	ros::init(argc, argv, "andor");
+	ros::NodeHandle nh;
+	ros::ServiceServer service = nh.advertiseService("andorService",updateANDOR);
+
+	cout << "*****************" << endl;
+	cout << "AND/OR graph is alive: " << endl;
+
+	ros::spin();
+	return 1;
+
+}   
+

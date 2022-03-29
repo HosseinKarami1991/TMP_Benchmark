@@ -1,0 +1,5 @@
+string[]  objects
+float32[]  colors
+
+----
+bool result

@@ -1,0 +1,6 @@
+#input
+string Name		# the and/or graph name
+---
+# Output
+geometry_msgs/Vector3[] linear
+geometry_msgs/Vector3[] angular

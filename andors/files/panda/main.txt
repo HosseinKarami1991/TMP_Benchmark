@@ -1,0 +1,34 @@
+main 9 end
+start 0
+planned 0
+noplan 0
+yesplan 0
+bb 0
+obao 0
+ooao 0
+oban 0
+end 0
+h0 1 planned 1 -
+start
+h1 1 noplan 1 -
+planned
+h2 1 yesplan 2 -
+planned
+h3 1 bb 1 -
+yesplan
+h4 1 obao 2 -
+yesplan
+h5 1 ooao 3 -
+yesplan
+h6 1 oban 4 -
+yesplan
+h7 1 end 1 -
+noplan
+h8 1 end 1 -
+bb
+h9 1 end 1 -
+obao
+h10 1 end 1 -
+ooao
+h11 1 end 1 -
+oban

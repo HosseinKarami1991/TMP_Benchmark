@@ -1,0 +1,7 @@
+
+
+std_msgs/String  input
+
+---
+
+std_msgs/String[] clutter_objects

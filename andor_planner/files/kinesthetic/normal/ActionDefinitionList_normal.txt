@@ -1,0 +1,11 @@
+Stop simple LeftArm/RightArm
+Grasp simple LeftArm/RightArm
+UnGrasp simple LeftArm/RightArm
+HoldOn simple LeftArm/RightArm
+Approach_Pose simple LeftArm/RightArm
+Rest simple LeftArm/RightArm
+checkifr simple RightArm
+checkifl simple RightArm
+CheckFlt simple RightArm
+CheckNFlt simple RightArm
+CheckNA simple RightArm

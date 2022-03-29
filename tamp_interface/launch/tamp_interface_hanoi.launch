@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="tamp_interface" type="tamp_interface_main" name="tampinterface" output="screen"/>
+	<param name="benchmark" type="string" value="hanoi"/>
+	<param name="disks" type="int" value="6"/>
+</launch>

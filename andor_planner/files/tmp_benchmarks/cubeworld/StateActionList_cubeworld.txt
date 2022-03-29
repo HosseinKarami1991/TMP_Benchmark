@@ -1,0 +1,68 @@
+start
+initpos
+nob
+noc
+nor
+es1
+nes1
+pc1
+plr1
+pb1
+plc1
+cplr
+cnplr
+pc2
+plr2
+es2
+nes2
+pr1
+plc2
+pc3
+plb1
+es3
+nes3
+pr2
+plc3
+pc4
+plb2
+stage
+alldone
+stillno
+done
+h0 updatebench?RightArm Approach_initposr?RightArm Approach_initposl?LeftArm Approach_initposb?Base UnGrasp?RightArm UnGrasp?LeftArm
+h1 checkpp_nob?RightArm
+h2 checkpp_noc?RightArm
+h3 checkpp_nor?RightArm
+h4 checkpp_es?RightArm
+h5 checkpp_nes?RightArm
+h6 removeobject_b?LeftArm Approach_trayb-postgrasp?LeftArm Approach_trayb-pregrasp?LeftArm Grasp_b?LeftArm Approach_trayb-postgrasp?LeftArm
+h7 Approach_traycpl-postgrasp?LeftArm Approach_traycpl-pregrasp?LeftArm UnGrasp_b?LeftArm Approach_traycpl-postgrasp?LeftArm
+h8 registerpp_b+c?LeftArm
+h9 removeobject_cpr?LeftArm Approach_traycpr-postgrasp?RightArm Approach_traycpr-pregrasp?RightArm Grasp_cpr?RightArm Approach_traycpr-postgrasp?RightArm
+h10 Approach_trayr-postgrasp?RightArm Approach_trayr-pregrasp?RightArm UnGrasp_cpr?RightArm Approach_trayr-postgrasp?RightArm registerpp_c+r?RightArm updatebench?RightArm
+h11 removeobject_b?LeftArm Approach_trayb-postgrasp?LeftArm Approach_trayb-pregrasp?LeftArm Grasp_b?LeftArm Approach_trayb-postgrasp?LeftArm
+h12 checkpp_cplr?RightArm
+h13 checkpp_cnplr?RightArm
+h14 removeobject_nextcube?RightArm Approach_nextcube-pregrasp?RightArm Approach_nextcube-grasp?RightArm Grasp_nextcube?RightArm Approach_nextcube-postgrasp?RightArm
+h15 Approach_trayr-postgrasp?RightArm Approach_trayr-pregrasp?RightArm UnGrasp_nextcube?RightArm Approach_trayr-postgrasp?RightArm
+h16 registerpp_c+next?RightArm updatebench?RightArm
+h17 checkpp_es?RightArm
+h18 checkpp_nes?RightArm
+h19 removeobject_r?RightArm Approach_trayr-pregrasp?RightArm Approach_trayr-grasp?RightArm Grasp_r?RightArm Approach_trayr-postgrasp?RightArm
+h20 Approach_traycpl-postgrasp?RightArm Approach_traycpl-pregrasp?RightArm UnGrasp_r?RightArm Approach_traycpl-postgrasp?RightArm
+h21 registerpp_r+c?RightArm
+h22 removeobject_cpb?LeftArm Approach_traycpb-postgrasp?LeftArm Approach_traycpb-pregrasp?LeftArm Grasp_cpb?LeftArm Approach_traycpb-postgrasp?LeftArm
+h23 Approach_trayb-postgrasp?LeftArm Approach_trayb-pregrasp?LeftArm UnGrasp_cpb?LeftArm Approach_trayb-postgrasp?LeftArm registerpp_c+b?LeftArm updatebench?LeftArm
+h24 removeobject_r?RightArm Approach_trayr-pregrasp?RightArm Approach_trayr-grasp?RightArm Grasp_r?RightArm Approach_trayr-postgrasp?RightArm
+h25 checkpp_es?RightArm
+h26 checkpp_nes?RightArm
+h27 removeobject_r?RightArm Approach_trayr-pregrasp?RightArm Approach_trayr-grasp?RightArm Grasp_r?RightArm Approach_trayr-postgrasp?RightArm
+h28 Approach_traycpl-postgrasp?RightArm Approach_traycpl-pregrasp?RightArm UnGrasp_r?RightArm Approach_traycpl-postgrasp?RightArm
+h29 registerpp_r+c?RightArm
+h30 removeobject_cpb?LeftArm Approach_traycpb-pregrasp?LeftArm Approach_traycpb-grasp?LeftArm Grasp_cpb?LeftArm Approach_traycpb-postgrasp?LeftArm
+h31 Approach_trayb-pregrasp?LeftArm Approach_trayb-grasp?LeftArm UnGrasp_cpb?LeftArm Approach_trayb-postgrasp?LeftArm registerpp_c+b?LeftArm updatebench?LeftArm
+h32 removeobject_r?RightArm Approach_trayr-postgrasp?RightArm Approach_trayr-pregrasp?RightArm Grasp_r?RightArm Approach_trayr-postgrasp?RightArm
+h33 checkifdone_cubeworld+yes?RightArm
+h34 checkifdone_cubeworld+no?RightArm
+h35 Approach_initposr?RightArm Approach_initposl?LeftArm sendvictory?RightArm
+h36

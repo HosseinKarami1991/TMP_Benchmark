@@ -1,0 +1,6 @@
+#input
+
+float64[] pose
+string[] names
+---
+bool update

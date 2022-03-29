@@ -1,0 +1,170 @@
+kitchen 51 finish
+start 0
+initpos 0
+pr1 0
+pr2 0
+plr1 0
+plr2 0
+im1 0
+pc1 0
+pc2 0
+plc1 0
+plc2 0
+im2 0
+pr3 0
+pr4 0
+plr3 0
+plr4 0
+im3 0
+pc3 0
+pc4 0
+wash1 0
+wash2 0
+plc3 0
+plc4 0
+wait 0
+pc5 0
+pc6 0
+mw1 0
+mw2 0
+plc5 0
+plc6 0
+tab21 0
+pg1 0
+pg2 0
+wash3 0
+wash4 0
+plg1 0
+mw3 0
+pc7 0
+pc8 0
+tab22 0
+tab23 0
+plc7 0
+wash5 0
+pg3 0
+pg4 0
+tab24 0
+tab25 0
+plg2 0
+done 0
+stillno 0
+finish 0
+h0 1 initpos 1 -
+start
+h1 1 pr1 2 -
+initpos
+h2 1 pr2 1 -
+initpos
+h3 1 plr1 1 -
+pr1
+h4 1 plr2 1 -
+pr2
+h5 1 im1 1 -
+plr1
+h6 1 im1 1 -
+plr2
+h7 1 pc1 2 -
+im1
+h8 1 pc2 1 -
+im1
+h9 1 plc1 1 -
+pc1
+h10 1 plc2 1 -
+pc2
+h11 1 im2 1 -
+plc1
+h12 1 im2 1 -
+plc2
+h13 1 pr3 2 -
+im2
+h14 1 pr4 1 -
+im2
+h15 1 plr3 1 -
+pr3
+h16 1 plr4 1 -
+pr4
+h17 1 im3 1 -
+plr3
+h18 1 im3 1 -
+plr4
+h19 1 pc3 2 -
+im3
+h20 1 pc4 1 -
+im3
+h21 1 wash1 1 -
+pc3
+h22 1 wash2 1 -
+pc4
+h23 1 plc3 1 -
+wash1
+h24 1 plc4 1 -
+wash2
+h25 1 wait 1 -
+plc3
+h26 1 wait 1 -
+plc4
+h27 1 pc5 2 -
+wait
+h28 1 pc6 1 -
+wait
+h29 1 mw1 1 -
+pc5
+h30 1 mw2 1 -
+pc6
+h31 1 plc5 1 -
+mw1
+h32 1 plc6 1 -
+mw2
+h33 1 tab21 1 -
+plc5
+h34 1 tab21 1 -
+plc6
+h35 1 pg1 2 -
+tab21
+h36 1 pg2 1 -
+tab21
+h37 1 wash3 1 -
+pg1
+h38 1 wash4 1 -
+pg2
+h39 1 plg1 1 -
+wash3
+h40 1 plg1 1 -
+wash4
+h41 1 mw3 1 -
+plg1
+h42 1 pc7 2 -
+mw3
+h43 1 pc8 1 -
+mw3
+h44 1 tab22 1 -
+pc7
+h45 1 tab23 1 -
+pc8
+h46 1 plc7 1 -
+tab22
+h47 1 plc7 1 -
+tab23
+h48 1 wash5 1 -
+plc7
+h49 1 pg3 2 -
+wash5
+h50 1 pg4 1 -
+wash5
+h51 1 tab24 1 -
+pg3
+h52 1 tab25 1 -
+pg4
+h53 1 plg2 1 -
+tab24
+h54 1 plg2 1 -
+tab25
+h55 1 done 1 -
+plg2
+h56 1 stillno 2 -
+plg2
+h57 1 finish 1 -
+done
+h58 1 finish 1 -
+stillno

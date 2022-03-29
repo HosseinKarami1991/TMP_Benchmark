@@ -1,0 +1,32 @@
+obj1inipos
+departure0
+departure1
+departure2
+departure3
+departure4
+departure5
+checkl0
+checkr0
+checkl1
+checkr1
+done
+init0
+h0 Approach_clobree-pregrasp?panda1Arm Approach_clobree-grasp?panda1Arm Grasp_clobree?panda1Arm Approach_clobree-postgrasp?panda1Arm
+h1 Approach_cloblee-pregrasp?panda1Arm HoldOn?panda1Arm Approach_cloblee-grasp?panda1Arm HoldOn?panda1Arm Grasp_cloblee?panda1Arm Approach_cloblee-postgrasp?panda1Arm
+h2 Approach_target-pregrasp HoldOn Approach_target-grasp Grasp_target Approach_target-postgrasp
+h3 Approach_clobt-pregrasp HoldOn Approach_clobt-grasp HoldOn Grasp_clobt Approach_clobt-postgrasp
+h4 Approach_clobb-pregrasp HoldOn Approach_clobb-grasp HoldOn Grasp_clobb Approach_clobb-postgrasp
+h5 Approach_larob-pregrasp Approach_larob-grasp Approach_larob-postgrasp
+h6 Approach_storage?panda1Arm HoldOn?panda1Arm UnGrasp_clobree?panda1Arm HoldOn?panda1Arm Approach_restr?panda1Arm Approach_restl?panda1Arm
+h7 Approach_resl?panda1Arm Approach_resrpregrasp?panda1Arm Approach_resrgrasp?panda1Arm Grasp_cloblee?panda1Arm UnGrasp?panda1Arm Approach_resrpostgrasp?panda1Arm Approach_storage?panda1Arm UnGrasp_cloblee?panda1Arm Approach_restr?panda1Arm Approach_restl?panda1Arm
+h8 sendvictory?panda1Arm
+h9 checkifl?panda1Arm
+h10 checkifr?panda1Arm
+h11 checkifl?panda1Arm
+h12 checkifr?panda1Arm
+h13 Approach_resl?panda1Arm Approach_resrpregrasp?panda1Arm Approach_resrgrasp?panda1Arm Grasp_clobt?panda1Arm UnGrasp?panda1Arm Approach_resrpostgrasp?panda1Arm Approach_storage?panda1Arm UnGrasp_clobt?panda1Arm Approach_restr?panda1Arm Approach_restl?panda1Arm
+h14 Approach_storage?panda1Arm UnGrasp_clobb?panda1Arm HoldOn?panda1Arm Approach_restr?panda1Arm Approach_restl?panda1Arm
+h15 Approach_resl?panda1Arm Approach_resrpregrasp?panda1Arm Approach_resrgrasp?panda1Arm Grasp_clobb?panda1Arm UnGrasp?panda1Arm Approach_resrpostgrasp?panda1Arm Approach_storage?panda1Arm UnGrasp_clobb?panda1Arm Approach_restr?panda1Arm Approach_restl?panda1Arm
+h16 Approach_storage?panda1Arm HoldOn?panda1Arm HoldOn?panda1Arm UnGrasp_clobb?panda1Arm Approach_restr?panda1Arm Approach_restl?panda1Arm
+h17
+h18 updatescene?panda1Arm

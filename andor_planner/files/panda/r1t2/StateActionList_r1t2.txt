@@ -1,0 +1,23 @@
+start12
+target12
+clee12
+cled12
+yes12
+no12
+placed12
+done12
+prestart12
+clobt12
+h1012 updatescene_r1t2?panda1Arm
+h012 Approach_target2-pregrasp?panda1Arm Approach_target2-grasp?panda1Arm Grasp_target2?panda1Arm Approach_target2-postgrasp?panda1Arm
+h112 Approach_clobee12-pregrasp?panda1Arm Approach_clobee12-grasp?panda1Arm Grasp_clobee12?panda1Arm Approach_clobee12-postgrasp?panda1Arm
+h212 Approach_clobed12-pregrasp?panda1Arm Approach_clobed12-grasp?panda1Arm Grasp_clobed12?panda1Arm Approach_clobed12-postgrasp?panda1Arm
+h312 checkifres_r1t1?panda1Arm
+h412 checkifres_not?panda1Arm
+h512 Approach_place1-pregrasp?panda1Arm Approach_place1-grasp?panda1Arm UnGrasp_clobee12?panda1Arm Approach_place1-postgrasp?panda1Arm remove_clobee12*r1t2?panda1Arm
+h612 Approach_place1-pregrasp?panda1Arm Approach_place1-grasp?panda1Arm UnGrasp_clobed12?panda1Arm Approach_place1-postgrasp?panda1Arm remove_clobed12*r1t2?panda1Arm
+h712 Approach_place31-pregrasp?panda1Arm Approach_place31-grasp?panda1Arm UnGrasp_target2?panda1Arm Approach_place31-postgrasp?panda1Arm addgraph_r1t1?panda1Arm
+h812 Approach_place31-pregrasp?panda1Arm Approach_place31-grasp?panda1Arm UnGrasp_target2?panda1Arm Approach_place31-postgrasp?panda1Arm exit?panda1Arm
+h912 addgraph_r1t2?panda1Arm
+h1112 Approach_clobt12-pregrasp?panda1Arm Approach_clobt12-grasp?panda1Arm Grasp_clobt12?panda1Arm Approach_clobt12-postgrasp?panda1Arm
+h1212 Approach_place1-pregrasp?panda1Arm Approach_place1-grasp?panda1Arm UnGrasp_clobt12?panda1Arm Approach_place1-postgrasp?panda1Arm remove_clobt12*r1t2?panda1Arm

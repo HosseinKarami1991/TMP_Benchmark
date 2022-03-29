@@ -1,0 +1,25 @@
+PickUp simple Human 
+Screwing simple Human 
+PutDown simple Human
+ScrewingInitial simple Human
+Stop simple LeftArm/RightArm
+Grasp simple LeftArm/RightArm
+UnGrasp simple LeftArm/RightArm
+HoldOn simple LeftArm/RightArm
+Approach-Point_0 simple RightArm
+Approach-Point_1 simple RightArm
+Approach-Point_2 simple RightArm
+Approach-Point_3 simple RightArm
+Approach-Point_4 simple LeftArm
+Approach-Point_5 simple LeftArm
+Approach-Point_6 simple RightArm
+Approach-Point_7 simple LeftArm
+Approach-Point_8 simple LeftArm
+Approach-Point_9 simple RightArm
+Approach-Point_10 simple LeftArm
+Approach-Point_11 simple LeftArm+RightArm
+ObstacleAvoidanceTask simple LeftArm/RightArm
+Handover simple LeftArm+Human+RightArm
+Approach-Leg_1 simple LeftArm/RightArm
+Transport-Leg_1-Point_12 simple LeftArm/RightArm/LeftArm+RightArm
+

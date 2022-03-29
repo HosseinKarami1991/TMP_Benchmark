@@ -1,0 +1,37 @@
+r1t1 10 done11
+prestart11 0
+start11 0
+target11 0
+clee11 0
+cled11 0
+yes11 0
+no11 0
+placed11 0
+done11 0
+clobt11 0
+h011 1 target11 1 -
+start11
+h111 1 clee11 2 -
+start11
+h211 1 cled11 3 -
+start11
+h311 1 yes11 1 -
+target11
+h411 1 no11 2 -
+target11
+h511 1 placed11 1 -
+clee11
+h611 1 placed11 1 -
+cled11
+h711 1 done11 1 -
+yes11
+h811 1 done11 1 -
+no11
+h911 1 done11 1 -
+placed11
+h1011 1 start11 1 -
+prestart11
+h1111 1 clobt11 4 -
+start11
+h1211 1 placed11 1 -
+clobt11

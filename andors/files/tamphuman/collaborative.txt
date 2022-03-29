@@ -1,0 +1,19 @@
+collaborative 6 donecolab
+initcolab 0
+inserted 0
+guided 0
+foundnextclose 0
+nextobjreg 0
+donecolab 0
+h0 1 inserted 1 -
+initcolab
+h1 1 guided 1 -
+initcolab
+h2 1 nextobjreg 1 -
+inserted
+h3 1 foundnextclose 1 -
+guided
+h4 1 nextobjreg 1 -
+foundnextclose
+h5 1 donecolab 1 -
+nextobjreg

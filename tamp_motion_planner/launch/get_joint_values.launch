@@ -1,0 +1,13 @@
+<launch>
+
+  <arg name="debug" default="false" />
+  <arg unless="$(arg debug)" name="launch_prefix" value="" />
+  <arg     if="$(arg debug)" name="launch_prefix" value="gdb --ex run --args" />
+
+  <!-- Launch node -->
+  <node name="get_joint_values" launch-prefix="$(arg launch_prefix)" pkg="tamp_motion_planner" 
+	type="get_joint_values" output="screen">
+    <remap from="/joint_states" to="/robot/joint_states" />
+  </node>
+
+</launch>

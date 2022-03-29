@@ -1,0 +1,15 @@
+obj1inipos
+obj1finpos
+obj2finpos
+obj2inipos
+obj3finpos
+obj3inipos
+obj4finpos
+obj4inipos
+done Approach_posrest?RightArm
+h0 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm HoldOn?RightArm Approach_poscamera?RightArm Screw?RightArm Unscrew?RightArm Approach_posinter?RightArm readqr?RightArm HoldOn?RightArm Approach_finalboxpose?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h1 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm HoldOn?RightArm Approach_poscamera?RightArm Screw?RightArm Unscrew?RightArm Approach_posinter?RightArm readqr?RightArm HoldOn?RightArm Approach_finalboxpose?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h2 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm HoldOn?RightArm Approach_poscamera?RightArm Screw?RightArm Unscrew?RightArm Approach_posinter?RightArm readqr?RightArm HoldOn?RightArm Approach_finalboxpose?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h3 PutDown?Human Approach_posapproach?RightArm UnGrasp?RightArm Approach_posgrasp?RightArm Grasp?RightArm HoldOn?RightArm Approach_poscamera?RightArm Screw?RightArm Unscrew?RightArm Approach_posinter?RightArm readqr?RightArm HoldOn?RightArm Approach_finalboxpose?RightArm UnGrasp?RightArm Approach_posrest?RightArm
+h4 Approach_posrest?RightArm
+

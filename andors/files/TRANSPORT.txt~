@@ -1,0 +1,12 @@
+TRANSPORT 3 obj_finalPose
+obj_finalPose 0
+obj_middlePose 0
+obj_initialPose 0
+h1 1 obj_finalPose 1
+obj_initialPose
+h2 1 obj_middlePose 1
+obj_initialPose
+h3 1 obj_finalPose 1
+obj_middlePose
+h4_human 1 obj_finalPose 4
+obj_initialPose

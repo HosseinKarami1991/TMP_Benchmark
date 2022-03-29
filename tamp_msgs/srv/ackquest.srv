@@ -1,0 +1,6 @@
+string arm
+bool jointpose
+
+---
+geometry_msgs/PoseStamped eepos
+float64[] jointposes
